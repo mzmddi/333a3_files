@@ -1,0 +1,1001 @@
+id,title,authors,venue,year
+eBnT7lhV2LwJ,Aurora: A Data Stream Management System (demo description),"D Abadi, D Carney, U Cetintemel, M Cherniack, C  ",Proceedings of the 2003 ACM SIGMOD Conference on Management ,N/A
+gBVNSFeS4P8J,Aurora: a new model and architecture for data stream management,"DJ Abadi, D Carney, U Ã?etintemel, M Cherniack, C  ","The VLDB Journal The International Journal on Very Large  &hellip;,",2003
+VuY9Y49GqXgJ,Aurora: A Data Stream Management System,"DJ Abadi, D Carney, U Cetintemel, M Cherniack, C  ",N/A,N/A
+AxpQwgyRyLgJ,Active XML Documents with Distribution and Replication,"S Abiteboul, A Bonifati, G Cobena, I Manolescu, T  ","ACM SIGMOD,",N/A
+Rjb06zlxbLIJ,Dynamic XML documents with distribution and replication,"S Abiteboul, A Bonifati, G Cobena, I Manolescu, T  ","SIGMOD Conference,",2003
+4GT0Krd9RP0J,A database interface for le update,"S Abiteboul, S Cluet, T Milo","SIGMOD,",N/A
+cu9DXtjeF24J,A database interface for file update - group of 2 &raquo;,"S Abiteboul, S Cluet, T Milo","Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+DakOA4Ew-poJ,A Database Interface for Files Update. To appear:,"S Abiteboul, S Cluet, T Milo","Proc. ACM SIGMOD International Conference on Management of  &hellip;,",N/A
+WWaxLMIptTMJ,Self-tuning Histograms: Building Histograms Without Looking at Data,"A Aboulnaga, S Chaudhuri","SIGMOD Conference,",1999
+xnDzelm2t1QJ,Self-tuning Histograms: Building Histograms Without Looking at Data,"AA AC, S Chaudhuri",Proceedings of the ACM SIGMOD International Conference on ,N/A
+_-yXA5HLnqoJ,Broadcast disks: Data management for asymmetric communications environments,"SA VI, R Alonso, M Franklin, S Zdonik",Proceedings of the ACM SIGMOD Conference on Management of ,N/A
+0lAHCM-lcjIJ,Data Management for Asymmetric Communication Environments,"S Acharya, R Alonso, M Franklin, S Zdonik, B Disks","Proc. ACM SIGMOD Conf., San Jose, CA, May,",N/A
+2fO9nM2FoGYJ,Broadcast Disks: Data Management for Asymmet-0 20 40 60 80 100 Percentage of DONT_CARE ImpLimit  ,"S Acharya, R Alonso, M Franklin, S Zdonik","ACM SIGMOD,",N/A
+cHxtmO9talkJ,Broadcast disks: Data management for asymmetric communications environments,"SA PI, R Alonso, M Franklin, S Zdonik","Proceedings of ACM SIGMOD conference, San Jose, CA, May,",N/A
+clF04MGcPSUJ,Broadcast Disks: data management for asymmetric communications Environment. ACM SIGMOD Int,"S Acharya, R Alonso, MJ Franklin, S Zdonik","Conference on Management of Data (SIGMOD 95), San Jose, CA,",N/A
+GOguWgH6D_UJ,"Broadcast disks: data management for asymmetric communication environments, University of Maryland  ","S Acharya, R Alonso, M Franklin, S Zdonik","MD,",N/A
+h2z51QPXcSkJ,Broadca. rt l) ikr: data management for uymmetrir communications Environment,"S Acharya, R Alonso, MJ Franklin, S Zdonik",N/A,1995
+rO4-yA3tlfoJ,Broadcast Disks: Data Management for Asymmetric Communication Environments,"S Acharya, R Alonso, M Franklin, S Zdonik","SIGMOD Conference,",1995
+y74PIIvb_GMJ,Broadcast Disks: Data Management for Asymmetric Communications Environments,"S Achary, M Franklin, S Zdonik, R Alonso","Proceedings of the ACCM SIGMOD International Conference on  &hellip;,",N/A
+ZdWKBKSoMUQJ,Broadcast disks: Data managementfor asymmetriccommunications environments,"S Acharya, R Alonso, M Franklin, S Zdonik","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+9OEjtHuRUzsJ,Balancing Push and Pull for Data Broadcast,"S Acharya, M Franklin, S Zdonik","SIGMOD Conference,",1997
+FDPwbRQbfIAJ,Balancing Push and Pull for Broadcast Data,"S Acharya, M Franklin, S Zdonik","Proc. ACM SIGMOD Conf., Tucson, AZ, May,",N/A
+Hf3gZHIcm58J,Balancing Pushand PullforData broadcast,"S Acharya, M Franklin, S Zdonik","InProceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+NDzryNtTyL8J,Pull for Broadcast Data,"S Acharya, M Franklin, S Zdonik, B Push","Proc. ACM SIGMOD Conf., Tucson, AZ, May,",N/A
+QCAu6wPhnAAJ,Balancing push and pull for data broadcast,"A Swarup, M Franklin, S Zdonik","Proceedings of the ACM SIGMOD Conference, Tucson-Arizona,  &hellip;,",N/A
+qdCTR7WpuFUJ,"Balancing push and pull for data broadcast,&quot;","M Franklin, S Zdonik","Proceedings of the ACM SIGMOD, May,",N/A
+umGxlKvzLoUJ,Pull for Data Broadcast,"S Acharya, M Franklin, S Zdonik, B Push","Proc. ACM SIGMOD Conf., Tucson, AZ, May,",N/A
+q_bQLiJ-KZAJ,Congressional Samples for Approximate Answering of Aggregate Queries,"S Acharya, PB Gibbons, V Poosala","Proceedings of ACM SIGMOD,",N/A
+smzeHDQ3zbMJ,"Congressional Samples for Approximate Answering of Group-By Queries, ACM SIGMOD Int","S Acharaya, PB Gibbons, V Poosala","Conference on Management of Data,",N/A
+WGWZ2cNZW2YJ,Congressional Samples for Approximate Answering of Group-By Queries,"S Acharya, PB Gibbons, V Poosala","SIGMOD Conference,",2000
+5vntH4boqdgJ,The Aqua approximate query answering system,"SA CR941, PB Gibbons, V PoosaIa, S Ramaswamy","Proc. ACM SIGMOD lnrernational Co@ on Management of Data,  &hellip;,",N/A
+a1esMNRsK_UJ," , S. Ramaswamy, and T. Suel. AQUA: System and techniques for approximate query answering","PB Gibbons, V Poosala, S Acharya, Y Bartal","Technical report, Bell Laboratories, Murray Hill, NJ, Feb.",N/A
+mOngiXbKrNkJ,The AQUA approximate query answering system. SIGMOD 1999,"S Acharya, PB Gibbons, V Poosala, S Ramaswamy","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+s064OghlyIUJ,The Aqua approximate query answering system,"S Acharya, PB Gibbons, V Poosala, S Ramaswamy","Proceedings of the 1999 ACM SIGMOD international conference  &hellip;,",1999
+t8KDgCSg9RIJ,AQUA: System and techniques for approximate query answering,"PB Gibbons, V Poosala, S Acharya, Y Bartal, Y  ",N/A,N/A
+ahfoveFQC2sJ,Join synopses for improving approximate query answers,"S Acharya, P Gibbons, V Poosala, S Ramaswarmy","Proc. of ACM SIGMOD Conf,",N/A
+C221gFS5VVoJ,Join Synopses for Approximate Query Answering,"SAPBG Viswanath, PS Ramaswamy",N/A,N/A
+czJmrc_4tZ4J,Join Synopsesfor Approximate Query Answering,"S Acharya, PB Gibbons, V Poosala, S Ramaswamy",ACM,N/A
+EpUtXEhwDaUJ,Join Synopses for Approximate Query Answering,"SA AGPR, PB Gibbons, V Poosala, S Ramaswamy",Proceedings of the ACM SIGMOD International Conference on ,N/A
+IkNOhDqEY18J,Join Synopses for Approximate Query Answering,"S Acharya, PB Gibbons",N/A,N/A
+mYFf63cZ4lUJ,"PoosalaV., Ramaswamy S. Join Synopses for Approximate Query Answering","S Acharya, PB Gibbons",Proc. 1999 ACM SIGMOD International Conference on Management,N/A
+VlVV2mEnoQ4J,"Join synopses for approximate query answering, ACM SIGMOD Int","S Acharaya, PB Gibbons, V Poosala, S Ramaswamy","Conference on Management of Data,",N/A
+0dY1brFaEzgJ,Selectivity Estimation in Spatial Databases,"S Acharya, V Poosala, S Ramaswamy",N/A,N/A
+2RuI2vzDUW8J,andS. Ramaswamy. Selectivity estimation in spatial databases,"S Acharya, V Poosala","Proceedings ACM SIGMOD Conference on Management of Data,",N/A
+gKOsM57uFB4J,Selectivity Estimation in Spatial Databases,"S Achaya, V Poosala, S Ramaswamy","Proc. ACM SIGMOD Intâ??l Conf. Management of Data,",N/A
+KrVgTXcNPPUJ,"Selectivity Estimation in Spatial Databases, ACM SIGMOD Intl","S Achaya, V Poosala, S Ramaswamy","Conference on Management of Data,",N/A
+-k0cD5NwXnoJ,Selectivity EstimationinSpatial Databases,"S Acharya, V Poosala, S Ramaswamy","Proc. ACM SIGMOD,",N/A
+69JsZwNpla0J,andV. S. Subrahmanian. A Multi-Similarity Algebra,"S Adal, P Bonati, ML Sapino",Proc. of 1998 Sigmod Conference on Management of,N/A
+rYC-j_j4Yv0J,A Multi-Similarity Algebra,"S Adal, P Bonatti, ML Sapino, VS Subrahmanian",N/A,N/A
+YQ90BYSVqbsJ,A Multi-Similarity Algebra,"S AdalÄ±, P Bonatti, ML Sapino, VS Subrahmanian","Proc. of SIGMOD, L. Haas and A. Tiwary",N/A
+_CkpzhLiR30J,Query cachingand optimization in distributed mediator systems,"S Adali, KS Candan, Y Papakonstantinou, VS  ","Proceedingsof the ACM Sigmod Conference,",N/A
+BpZjLfob1eIJ,Optimization in Distributed Mediator Systems,"S Adali, KS Candan, Y Papakonstantinou, VS  ","Proc. ACM SIGMOD,",N/A
+I8qFyTX4FhoJ,Query Caching and Optimization in Distributed Media Systems,"S Adali, KS Candan, Y Papakonstantinou, VS  ",Proc. of,N/A
+npAaKsmFlpcJ,SubrahmanianV. S. Query caching and optimization in distributed mediator systems,"S Adali, K Candan, Y Papakonstantinou",Proc. of,N/A
+pw234_REfHUJ,Query Caching and Optimization in Mediator Systems,"S Adali, S Candan, Y Papakonstantinou, VS  ",ACM,N/A
+Ra8-qY_qjZoJ,"QueryCachingandOptimizationinDistributed MediatorSystems, inH. V. Jagadish and Inderpal Singh Mumick ","S Adali, KS Candan, Y Papakonstantinou, VS  ","Proc. of the 1996 ACM SIGMOD Conf. on Managementof Data,",N/A
+rmtEGXAXHKIJ,"Query Caching and Optimization in Distributed Mediator Systems, proceedings of ACM SIGMOD  ","S Adali, KS Candan, Y Papakonstantinou, VS  ","Montreal, Canada, June",N/A
+uMmcsye0YCkJ,Query Caching and Optimization in Distributed Mediator Systems,", KS Candan, Y Papakonstantinou, VS Subrahmanian",Proc. of the 1996 Sigmod Conference on Management of,N/A
+zE4iM0h4W2sJ,"Papakonstantinou, and VS Subrahmanian. Query Caching and Optimization in Distributed Mediator  ","SA ACPS, KS Candan",Proceedings of the ACM SIGMOD International Conference on ,N/A
+7OvO0Y3IU8gJ,S. Subrahmanian. Amultimediapresentation algebra,"S Adali, ML SapinoetV","&hellip;  of the ACM SIGMOD International Conference on Management of &hellip;,",N/A
+bhWLVCoDuNQJ,A Multimedia Presentation Algebra,"S Adal, ML Sapino, VS Subrahmanian",N/A,N/A
+c2dH5RxNj6kJ,A Multimedia Presentation Algebra,"S AdalÄ±, ML Sapino, VS Subrahmanian","SIGMOD,",1999
+Cbwq3JSxrSAJ,A Multimedia Presentation Algebra,"S Adah, ML Sapino, VS Subrahmanian","ACM SIGMOD, Philadelphia,",1999
+3hsPMPTl2msJ,NoDoSE. ATool for semi-automatically Extracting StructeredandSemistructuredData from Text Document,B Adelberg,"Proc. ACM SIGMOD International Conference on Management of  &hellip;,",N/A
+5I0ArBmDRcEJ,NoDoSE: A Tool for Semi-Automatically Extracting Structured and Semi-Structured Data from Text  ,B Adelberg,"SIGMOD RECORD,",1998
+ahVfYoqGq6gJ,NoDoSE-A Tool for Semi-Automatically Extracted Structured and Semistructured Data from Text  ,B Adelberg,Proceedings of,N/A
+JrU1gnfH1sYJ,NoDoSE {A Tool for Semi-Automatically Extracting Semi-Structured Data from Text,B Adelberg,"Proc. of the SIGMOD Conference, Seattle, June,",N/A
+lyTJMJmpo8IJ,Tool for Semi-Automatically Extracting Structured and Semistructured Data from Text Documents,"B Adelberg, A NoDoSE","Proc. 1998 ACM SIGMOD Int&#39;l Conf. Management of Data (SIGMOD &hellip;,",N/A
+UT0h0HcwLyUJ,NoDoSE {A Tool for Semi-Automatically Extracting Semi-Structured Data from Text Documents. In ACM  ,B Adelberg,"Seattle, Washington,",N/A
+XytbGy--8LMJ,"â?? The Strip Rule System for Efficiently Maintaining Derived Data, &amp;rdquo","B Adelberg, H Garcia-Molina, J Widom","Proc. ACM SIGMOD Int&#39;l Conf. Management of Data,",N/A
+zZo47Z-jVX4J,The STRIP Rule System For Efficiently Maintaining Derived Data,"B Adelberg, H Garcia-Molina, J Widom","SIGMOD Conference,",1997
+3jUi_Yf4DfIJ,Monitoring Business Processes through Event Correlation based on Dependency Model,"A Adi, D Botzer, O Etzion, T Yatzkar-Haham",N/A,N/A
+url:http://portal.acm.org/citation.cfm%3Fdoid%3D375663.375759,Monitoring business processes through event correlation based on dependency model,"A Adii, D Botzer, O Etzion, T Yatzkar-Haham","Proceedings of the 2001 ACM SIGMOD international conference  &hellip;,",2001
+7YMi5qKSe2EJ,"Efficient Optimistic Concurrency Control using Loosely Synchronized Clocks, SIGMOD, San Jose, CA","A Adya, R Gruber, B Liskov, U Maheshwari",N/A,1995
+bfcbZlt6vngJ,Efficient Optimistic Concurrency Control Using Loosely Synchronized Clocks,"A Adya, R Gruber, B Liskov, U Maheshwari","SIGMOD Conference,",1995
+EP8u32KwMe4J,Efficient Optimistic Concurrency Control Using Loosely Synchronized Clocks. Submitted to the 1995  ,"A Adya, R Gruber, B Liskov, U Maheshwari",MIT Laboratory for Computer,N/A
+FlE1JdgElGQJ,"Efficient Optimistic Concurrency Control Using Loosely Synchronized Clocks, ACM SIGMOD Int","A Adya, R Gruber, B Liskov, U Maheshwari","Conf. on Management of Data,",N/A
+k7zpSukSfYsJ,Generating Efficient Plans for Queries Using Views,"FN Afrati, C Li, JD Ullman",N/A,N/A
+U8adXFUIr3EJ,Pages generating efficient plans for queries using views,"FN Afrati, C Li, JD Ullman",Proceedings of the 2001 ACM SIGMOD international conference ,N/A
+ALk7huiKjWAJ,A Super Scalar Sort Algorithm for RISC Processors,RC Agarwal,"SIGMOD Conference,",1996
+Ca-BABwlsQAJ,A Super Scalar Sort Algorithm for RISC Processors,RC Agarwrd,"Proceedings of the i 996 ACIU SIGMOD Conference,",N/A
+Fd0jPlSwFWcJ,A super scalar sort algorithm for RISC urocessors,CA lAMI Ramesh,"Proc. SIGMOD Intl. Conf: on Managâ??ement of Data,",N/A
+5uimonC4q_QJ,Fast algorithms for projective clustering,"CC Aggarwal, CM Procopiuc, JL Wolf, PS Yu, JS Park","Proc. of ACM-SIGMOD Intl. Conf. on Management of Data,",N/A
+G3dX_RTA26MJ,Fast Algorithms for Projected Clustering,"CC Aggarwal, C Procopiuc, JL Wolf, PS Yu, JS Park","SIGMOD Conference,",1999
+s9hhR-EdDGgJ,A New Method for Similarity Indexing of Market Basket Data,"CC Aggarwal, JL Wolf, PS Yu","SIGMOD Conference,",1999
+wjKnsQWl5ZoJ,PS Yu. A new method for similarity indexing for market data,"CC Aggarwal, L Wolf, S Yu","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+dfSPs7YoyWsJ,Finding Generalized Projected Clusters In High Dimensional Spaces,"CC Aggarwal, PS Yu","SIGMOD Conference,",2000
+OV5GSHDaYNMJ,"Finding Generalized Projected Clusters in High Dimensional Spaces, Sigmoid Record v. 29, No. 2, 2000 ","C Aggrawal, PS Yu","On Management of Data, Dallas, TX,",N/A
+x5jeMyauzWgJ,Finding generalized projected clusters in dimensional spaces,"C Aggarwal, P Yu","ACM SIGMOD Conference,",N/A
+6i8hYEhbelEJ,"Outlier Detection for High Dimensional Data. Santa Barbara, California, 2001","CC Aggarwal, PS Yu",Proceedings of the 2001 ACM SIGMOD International Conference ,N/A
+QkTd5WogN-AJ,Outlier Detection for High Dimensional Data,"CC Aggarwal, PS Yu",N/A,N/A
+GDoFPiEzEhQJ,Snowball: A Prototype System for Extracting Relations from Large Text Collections,"E Agichtein, L Gravano, J Pavel, V Sokolova, A  ","SIGMOD Conference,",2001
+z8s4kW1y7LMJ,Snowball: extracting relations from large plain-text collections,"E Agichtein, L Gravano",N/A,N/A
+3nxl8d4c0t4J,Efficient View Maintenance at Data Warehouses,"D Agrawal, A El Abbadi, A Singh, T Yurek","SIGMOD REC,",1997
+7Of1HyK-VnkJ,Efficient View Maintenance Warehouses,"D Agrawal, A El Abbadi, A Singh, T Yurek","Proc. Of the 1997 ACM SIGMOD International Conference on  &hellip;,",N/A
+bDiNQAdf8nEJ,Efficient View Maintenance at Data Warehouses,T Yurek,N/A,1997
+C85vtVHZmjUJ,Efficient view maintenanceat data warehouse,"D Agrawal, A El Abbadi, A Singh, T Yurek","Proceedings of the ACM SIGMOD Conference,",N/A
+-XBy73K2jq0J,Efficient Data View Maintenance Warehouses,"D Agrawal, A El Abbadi, A Singh, T Yurek","Proc. ACM SIGMOD,",N/A
+HypA8oN4PqsJ,Information Sharing Across Private Databases,"R Agrawal, AV Evfimievski, R Srikant",N/A,N/A
+Wrue2IkpGyEJ,andR. Srikant. Information sharingacrossprivate databases,"R Agrawal, A Evmievski",Proc. of the 2003ACM SIGMOD Intâ??l Conf. on Managementof ,N/A
+_LE5T2vKPUcJ,andP. Raghavan. Automatic subspace clustering of high dimensional data for data mining applications,"R Agrawal, J Gehrke, D Gunopulos",Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD&#39;,N/A
+1rW7ao6gK-QJ,Automatic subspace clustering of high dimensional data for data mining applications,"R Agarwal, J Gehrke, D Gunopolos, P Raghavan","Proc. of SIGMOD,",N/A
+5E5gcM0xPFAJ,CLIQUE: Automatic subspace clustering of high dimensional data for data mining applications,R AGRAWALâ?¦,Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD,N/A
+DHbEJyv20WMJ,Automatic subspace clustering of high dimensional data for data mining,"R Agrawal, J Gehrke, D Gunopulos, P Raghavan","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+EQ0ys8s10vcJ,"Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications. Eds., Haas, LM  ","R Agrawal, J Gehrke, D Gunopulos, P Raghavan","SIGMOD 1998, Proceedings ACM SIGMOD International Conference &hellip;,",N/A
+rSTewQ1dQkYJ,Automatic subspace clustering of high dimensional data for data mining applications,"A Rakesh, J Gehrke, D Gunopulosâ?¦",N/A,N/A
+UYQpDoh0wo0J,Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications,"RAJ Gehrke, DGP Raghavan",N/A,N/A
+v9JW-UJCD-YJ,andPrabhakarRaghavan. Automaticsubspaceclusteringof highdimensional data for data mining  ,"JG RakeshAgrawal, D Gunopolos","ACM SIGMOD Conference,",N/A
+x8fDHaNkSUIJ,Automatic Subspace Clustering of High Dimensional Data Mining Applications,"R Agrawal, J Gehrke, D Gunopulos, P Raghavan","Proceedings of ACM SIGMOD International Conference on  &hellip;,",N/A
+x92Yw8H9uH4J,Automatic Subspace Clustering of High Dimensional Data for Data Mining Application,"R Aggarwal, J Gehrke, D Gunopulos, P Raghavan","Proc. ACM SIGMOD Conf,",N/A
+y55xkFQJvxAJ,Automatic subspaceclusteringof high dimensionaldatafor data mining applications,"R Agrawal, J Gehrke, D Gunopulos, P Raghavan",N/A,N/A
+4m_zFz0kP7cJ,June 1999. DBIS Toolkit-Adaptible Middleware for Large-Scale Data Delivery,"M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro, ",ACM SIGMOD Intl. Conference on Management of Data (SIGMOD 99,N/A
+ebmulQBhqZEJ,DBIS-Toolkit: Adaptable Middleware for Large Scale Data Delivery,"M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro, ","SIGMOD Conference,",1999
+LCmaogUdo_YJ,"DBIS-Toolkit: Adaptive Middleware for Large Scale Data Delivery,(Demonstration Description)","M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro, ",Proc. ACM SIGMOD Int&#39;l Conf. on Management of,N/A
+ShFgK7Iev-QJ,DBIS-Toolkit: Adaptive Middleware for Large Scale Data Delivery,M Altinelâ?¦,&hellip;  of the 1999 International Conference on Management of Data ,N/A
+WZDgK2THjbQJ,Dbis toolkit: Adaptable middleware for large scale data delivery (demo description),"M Altinel, D Aksoy, T Baby, M Franklin, W Shapiro, ","Proceedings of the ACM SIGMOD Intl. Conference on Management &hellip;,",N/A
+HtYTQ-fN8ccJ,DBCache: database caching for web application servers,"M Altinel, Q Luo, S Krishnamurthy, C Mohan, H  ","Proceedings of the 2002 ACM SIGMOD international conference  &hellip;,",2002
+zzg3KI_fyyIJ,Database Caching for Web Application Servers,"M Altinel, Q Luo, S Krishnamurthy, C Mohan, H  ",N/A,2002
+iE-UE2bDGZ8J,ARIADNE: A System for Constructing Mediators for Internet Sources,"JL Ambite, N Ashish, G Barish, CA Knoblock, S  ","SIGMOD Conference,",1998
+L7XmLpQLXBIJ, . and Sheila Tejada. ARIADNE: A system for constructing mediators for internet sources (system  ,"JL Ambite, N Ashish, G Barish",Proc. of A CM SIGMOD Conf. on Management of,N/A
+YAkpVC1qgaIJ,ARIADNE: A System for Constructing Mediators for Internet Sources (Demonstration),"J Ambite, N Ashish, G Barish, A Knoblock, S Minton ","Proceedings of ACM SIGMODâ??98 conference on Management of  &hellip;,",N/A
+DFubU20j1OIJ,Minimization of Tree Pattern Queries,"S Amer-Yahia, S Cho, LVS Lakshmanan, D Srivastava",N/A,N/A
+VzfXEsmoyUcJ,Minimization of tree patterns queries,"S Flesca, F Furfaro, E Masciari","Proceedings of the 29th VLDB Conf,",N/A
+wGxcAPsmHgIJ,Minimization of tree pattern queries,"A Sihem, C SungRan, VS Laks","Proc. of the SIGMOD. Santa Barbara,",N/A
+WsCqveNDjjUJ,Minimization of tree pattem queries,"SA Yahia, S Cho, LVS Lakshmananâ?¦",Proc of the ACM SIGMOD,N/A
+7-b5YXuGJS0J,PIX: Exact and Approximate Phrase Matching in XML.,"S Amer-Yahia, MF Fernandez, D Srivastava, Y Xu",N/A,N/A
+fm69LHjS4T0J,exact and approximate phrase matching in XML,"S Amer-Yahia, M Fernandez, D Srivastava, YX PIX","ACM [ACM03a],",N/A
+IgRat6Xyu2EJ,Pix: Exact and approximate phrase matching in xml,D Srivastava,"Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+H6eMdbXATmkJ,"Replication, consistency and practicality: Are these mutually exclusive","A Todd, B Yuri, FK Henry, W Avishai",Procs. of the ACM SIGMOD International Conf. on Management ,N/A
+j6v2b9hN-R4J,"Replication, Consistency, and Practicality: Are These Mutually Exclusive?","T Anderson, Y Breitbart, HF Korth, A Wool","SIGMOD Conference,",1998
+zabWzVjkZNYJ,Practicality: Are These Mutually Exclusive,"T Anderson, Y Breitbart, H Korth, A Wool, C  ","Proceedings of the ACM-SIGMOD 1998 International Conference  &hellip;,",N/A
+GFTU2PvKY_gJ,"M., KRIEGEL, H.-P., et al., 1999,â??OPTICS: Ordering Points to Identify the Clustering Structureâ??","M ANKERST, M BREUNIG",Proceedings of the ACM SIGMOD Conference on Management of ,N/A
+hEemQ37_mPcJ,"M., Kriegel, H.-P. and Sander, J., 1999, OPTICS: Ordering points to identify the clustering  ","M Ankerst, M Breunig",Proceedings of,N/A
+Hj3vyh0TJVsJ,OPTICS: Ordering Points To Identify the Clustering Structure,"M Ankerst, MM Breunig, HP Kriegel, J Sander","SIGMOD Conference,",1999
+jSUcrxtXhw4J,OPTICS: Ordering Points To Identifythe Clustering Structure,"M Ankerst, M Breunig, HP Kriegel, J Sander","Proc. ACM Int. Conf. on Management of Data (SIGMODâ??99),",N/A
+K1ZdQsRoNloJ,OPTICS: Ordering points to identify the cluster structure,"M Ankerst, M Breunig, HP Kriegel, J Sander",Proc. 1999 ACM-SIGMOD Int. Conf. Management of,N/A
+rgEDmTFPFY4J,Ordering Points To Identify the Clustering Structure Proc,"M Ankerst, MM Breunig, HP Kriegel, JS OPTICS",ACM,N/A
+1DKKwROqEeYJ,STREAM: The Stanford Data Stream Management System,"A Arasu, B Babcock, S Babu, J Cieslewicz, M Datar, ",N/A,N/A
+7D59wPTtkdcJ,STREAM: The Stanford Stream Data Manager,D Proposal,N/A,N/A
+eXulm3jwflAJ,STREAM: the stanford stream data manager (demonstration description),"A Arasu, B Babcock, S Babu, M Datar, K Ito, I  ","Proceedings of the 2003 ACM SIGMOD international conference  &hellip;,",2003
+jp9ptMpdoGwJ,"Stanford University, Extracting structured data from Web pages","A Arasu, H Garcia-Molina","Proceedings of the 2003 ACM SIGMOD international conference  &hellip;,",N/A
+kfADlOEkwOkJ,S. University. Extracting structured data from web pages,"A Arasu, H Garcia-Molina",Proceedings of the 2003 ACM SIGMOD International Conference ,N/A
+zN8ngmWNDlgJ,Extracting Structured Data from Web Pages,"A Arasu, H Garcia-Molina",N/A,N/A
+ht_8Iq3SZ80J,The handwritten trie: indexing electronic ink,"W Aref, D BarbarÃ¡, P Vallabhaneni","Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+K7mfVCHc3noJ,and P. Vallabhaneni. The Handwritten Trie: Indexing Electronic Ink,"W Aref, D Barbar","Technical report, MITL, October",N/A
+6_FvrRYnxHYJ,High-Performance Sorting on Networks of Workstations,"AC Arpaci-Dusseau, RH Arpaci-Dusseau, DE Culler,  ","SIGMOD Conference,",1997
+aCCAyNhJFtsJ,High-Performance Sorting on Networks of Workstations,DA Patterson,N/A,N/A
+E_eOZJYat6IJ,High-performance sorting on networks of workstations,"AC Dusseau, RHA Dusseau, DE Culler, JM Hellerstein ","Proc. SIGMOD Intl. Conf. on Management of Data,",N/A
+OaNzji_-7tsJ,"JM, Hellerstein, and DA Patterson. High-Performance Sorting on Networks of Workstations","AC Axpaci-Dusseau, RH Arpaci-Dussenu, DE Culler","&hellip;  1997ACM SIGMOD httcrnationul Conference on Mumqemen f  &hellip;,",N/A
+9uxj2XzGt9UJ,Query by image content: The QBIC system,"M Flickner, H Sawhney, W Niblack, J Ashley, Q  ","IEEE Computer,",N/A
+FnnILIjz08EJ,The query by image content (QBIC) system,"J Ashley, M Flickner, J Hafner, D Lee, W Niblack,  ","Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+t0Wd_YW4n3cJ,Query by image and video content: the QBIC system,W Niblackâ?¦,"IEEE Computer,",N/A
+tL67lYBCRO4J,The Query By Image Content System,"J Ashley, M Flickner, J Hafner, D Lee, W Niblack,  ",Proceedings Of the 1995 ACM SIGMOD International Conference ,N/A
+ZkK-ilu3tY0J,"e. alli,&quot; Query by Image and Video Content: The QBIC System,&quot;",M Flickner,"IEEE Computer,",N/A
+i2LI1TWifbYJ,MDM: a Multiple-Data-Model Tool for the Management of Heterogeneous Database Schemes,"P Atzeni, R Torlone","SIGMOD Conference,",1997
+KFmRUQEedY8J,MDM: a Multiple-Data-Model Tool for the Management of Heterogeneous Database Schemes,"DI Automazione, DI e Automazione",N/A,N/A
+XaKiz5S-cqUJ,Mdm: a multiple-data-model tool for the management of heterogenous database schemes,"P Atzeni, R Torlone","Proceedings of the ACM Sigmod International Conference,  &hellip;,",N/A
+a2wqpKma5J4J,Chain : Operator Scheduling for Memory Minimization in Data Stream Systems,"B Babcock, S Babu, M Datar, R Motwani","SIGMOD Conference,",2003
+RFNZUHZBP_oJ,Chain: Operator scheduling for memory minimization in stream systems,"M Dalar, B Babcock, S Babu, R Motwani","Proceedings of ACM-SIGMOD,",N/A
+RIDEvTXNpaAJ,Chain: Operator Scheduling for Memory Minimization in Stream Systems,"B Brian, B Shivnath, D Mayur, M Rajeev","Proceedings, International Conference on Management of Data  &hellip;,",N/A
+rnakKC_M9-kJ,Chain: Operator Scheduling for Memory Minimization in Stream Systems,"B Babcock, S Babu, M Datar, R Motwani","Proceedings of the international SIGMOD conference, San  &hellip;,",N/A
+h_oXQ6ntHEUJ,SPARTAN: A Model-Based Semantic Compression for Massive Data Tables,"S Babu, M Garofalakis, R Rastogi","ACM SIGMOD Conference,",N/A
+zQCRmiH6jo4J,&quot; SPARTAN: A Model-Based Semantic Compression System for Massive Data Tables,"S Babu, M Garofalakis, R Rastogi","ACM SIGMOD Record,",2001
+7N0H3ra1FFsJ,Sleepers and workaholics: Caching in mobile distributed environments,"D Barbara, T Imielinski","Proc. of ACM SIGMOD Int. Conf. on Management of Data,",N/A
+bMUUwjP72hwJ,Sleepers and Workaholics: Caching Strategies in Mobile Environments,"D Barbara-Milla, T Imielinski","ACM SIGMOD Record,",N/A
+bTYTn8VG5hIJ,"Ã¢â?¬ Å?Sleepers and Workaholics: Caching Strategies for Mobile Environments, Ã¢â?¬Â?","D Barbara, T Imielinski",ACM,N/A
+F7azEOfg-Q0J,"Sleepers and Workaholics: Caching Strategies in Mobile Environments (Extended Version),Âº MOBIDATA:  ","D Barbara, T Imielinski","Mobile Computing,",N/A
+fMuom_ogj4MJ,Sleeper and workaholics: Caching strategies in mobiles environments,"BR Badrinath, T Imielinski","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+GXhaGGajWZkJ,Sleepers and workaholics: caching strategies in mobile environments,"D BarbarÃ¡, T Imielinski","Proc. ACM SIGMOD Intâ??l Conf. Management of Data,",1994
+gyC0D8oJbQMJ,Sleepers and Workoholics-Caching in Mobile Wireless Environments,"D Barbara, T Imielinski",Proc. ACM,N/A
+kooQijVBMscJ,"Sleepers and Workaholics: Caching Strategies in Mobile Environments,Âº Very Large Databases J","D Barbara, T Imielinski",N/A,1995
+UI4WYndJlyIJ,Sleepers and workaholics: Caching strategies in mobile environments (Extended version),"D BarbarÃ¡, T ImieliÅ?ski","The VLDB Journal The International Journal on Very Large  &hellip;,",1995
+XfvqAOX1qo4J,Sleepers andworkaholicscaching strategiesinmobile environments,"D Barbara, T Imielinski",Proc. of ACM SIGMOD Int. Conf. on Management of,N/A
+ueKnwQCE3nIJ,ToXgene: An extensible template-based data generator for XML.,"D Barbosa, AO Mendelzon, J Keenleyside, KA Lyons",N/A,N/A
+wO-iR4jRq0UJ,a template-based data generator for XML,"D Barbosa, A Mendelzon, J Keenleyside, KTX Lyons","Proceedings of the Fifth International Workshop on the Web  &hellip;,",N/A
+6uaAB7bg6C8J,Microsoft TerraServer: A Spatial Data Warehouse. 1999,"T Barclay, J Gray, D Stuz",Microsoft,N/A
+7br3WXwZRQ4J,TerraServer: A Spatial Data Warehouse,"T Barclay, DR Slutz, J Gray","SIGMOD Conference,",N/A
+JTEJ-q3T1vsJ,Microsoft TerraServer: A Spatial Data Warehouse,TBJGD Slutz,"Arxiv preprint cs.DB/9907016,",1999
+tKeGALC3uFMJ,Microsoft TerraServer: A Spatial Data Warehouse,"T Barclay, J Gray, D Slutz","SIGMOD RECORD,",2000
+v6Rokk9Eht8J,"J. Gray, TerraServer: A Spatial Data Warehouse","T Barclay, RD Slutz","Proceedings of the 2000 ACM-SIGMOD Conference,",N/A
+Yiyko_0KiEIJ,"Microsoft TerraServer: A Spatial Data Warehouse:[Technical Report, MS-TR-99-29]","T Barclay, J Gray, D Slutz","Advanced Technology Division, Microsoft",N/A
+hf84fEpX5agJ,Phoenix: Making Applications Robust.(demonstration paper) Proceedings of ACM SIGMOD Conference,"R Barga, D Lomet","Philadelphia, PA (June,",N/A
+QGxyK7bJQOMJ,Phoenix: Making Applications Robust,"R Barga, DB Lomet",N/A,N/A
+C60KJG_xVm0J,An Overview of DB2 Parallel Edition,"C Baru, G Fecteau, A Goyal, HI Hsiao, A Jhingran,  ","SIGMOD Conference,",1995
+mFOSML8c0s4J,W. W] lson. An Overview of DB2 Paraflel Edition,"C Barn, G Fecteau, A Goyaf, H Hsiao, A Jhnigmn, S  ",Proceedings of 1995 SIGMOD International Conference on ,N/A
+3SHIgRrrL5QJ,XML-based information mediation with MIX,"PV Papakonstantinou, V Chu","SIGMOD Conference,",N/A
+arQIThq-W4gJ,XML-Based Information Mediation with MIX,CBAGB Ludascher,N/A,N/A
+JYHcz-HpKjEJ,"XML-Based Information Mediation with MIX. In in Demo Session, ACM-SIGMODâ??99","C Baru, A Gupta, B Ludaescher, R Marciano, Y  ",N/A,1999
+mXKKjAJUm-oJ,XML-Based Information Mediation with MIX,"C Baru, A Gupta, R Marciano, Y Papakonstantinou, P ",N/A,N/A
+nTC3FQGaT_YJ,ChuV (1999) XML-based information mediation with MIX,"GA BaruCK, MR LudascherB, Y Papakonstantinou, P  ",Proceedings of,N/A
+wsNuAYMG0QEJ,XML-Based Information Mediation with MIXâ?? exhibition program,"C Baru, A Gupta, B LudÃ¤scher, R Marciano, Y  ",ACM Conference on Management of,N/A
+wTXunETZhPwJ,XML-Based Information Meditiation with MIX,"CK Brau, A Gupta, B LudÃ¤her, R Marciano, Y  ",N/A,1999
+htTH8PrZ0dYJ,Efficiently Mining Long Patterns from Databases,RJB Jr.,"SIGMOD Conference,",N/A
+Ls7vkMLcYmkJ,Efficiently Mining Long Patterns from Datasets,RJ Bayardo,"Proc. ACM SIGMOD, Intâ??l Conf. Management of Data,",N/A
+mvD-z59XDYoJ,Efficiently mining long patternsfrom databases,R Bayardo,"Proc. of the ACM SIGMOD Conference,",N/A
+O05yYxasf6UJ,Efficiently mining long patterns from databases,J Roberto,"ACM SIGMOD International Conference on Management of Data,",N/A
+t7cKx4raSM0J,Efficiently Ming Long Patterns from Databases,RJ Bayardo Jr,Proc. of ACM SIGMOD Conf. on Management of,N/A
+wHaeR7DBDTUJ,Efficiently Mining Long Patterns from Databases,â?¦,"SIGMOD RECORD,",1998
+1tZ74y0DNLIJ,"B} ohm B, Kriegel HP (1998) The pyramidtechnique: towards breaking the curse of dimensionality",S Berchtold,"Proceedings of the 1998 ACM SIGMOD international conference  &hellip;,",N/A
+4Uf5sjXgwhoJ,The Pyramid-Technique: Towards Breaking the Curse of Dimensionality,"S Berchtold, HP Kriegel","SIGMOD RECORD,",1998
+5bjtbk4ZdZIJ,andH.-P. Kriegel. The pyramid technique: Towards breaking the curse of dimensionality,"S Berchtold, C Bohm",Proc. of the ACMSIGMOD International Conference on ,N/A
+fTYVIbi40sAJ,The Pyramid-Tree: Towards Breaking the Curse of Dimensionality,"S Berchtold, C BÃ¶hm, HP Kriegel","Proc. Int. Conf. on Management of Data (SIGMODâ??98),  &hellip;,",N/A
+hoi0T_8So4gJ,"C. BÂ¤ ohm, and H.-P. Kriegel. The Pyramid-Technique: Towards Breaking the Curse of Dimensionality",S Berchtold,"Proc. ACM-SIGMOD Conf,",N/A
+j46yGNUAS-IJ,"The Pyramid-Tree: Breaking the Curse of D imensionality, SIGMOD 1998","S Berchtold, C Boehm, HP Kriegel","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+rivzCRXhoAkJ,The Pyramid-Technique: Towards indexing beyond the Curse of Dimensionality,"S Berchtold, C BÃ¶hm, HP Kriegel","Proc. ACM SIGMOD Int. Conf. on Management of Data, Seattle,",N/A
+vrlNTuVexE4J,The pyramid-Technique: Towards Breaking the Curse of Dimensional Data Spaces,"S Berchtold, D Keim, HP Kriegel","Proc. ACM SIGMOD Int. Conf. Managment of Data, Seattle,",N/A
+9UYo0M1RV7oJ,High-dimensional Index Structures,"S Berchtold, DA Keim","Proceedings of SIGMOD,",N/A
+irJbh9rrinoJ,"High-Dimensional Index Structures, Database Support for Next Decade's Applications","S Berchtold, DA Keim","SIGMOD RECORD,",1998
+pKKu82IYP9EJ,High-dimensional index structures database support for next decade's applications (tutorial),"S Berchtold, DA Keim","Proceedings of the 1998 ACM SIGMOD international conference  &hellip;,",1998
+PKMN5Cdy7KcJ,High dimensional indexing structures database support for next decade's applications,"S Berchtold, D Keim","Proc. ACM SIGMOD, page,",N/A
+VuMPPr6k95AJ,"High-dimensional Index Structures, Proc","S Berchtold, DA Keim","ACM SIGMOD,",N/A
+3IFlpeKgLlAJ,javax. XXL: A Prototype for a Library of Query Processing Algorithms,"J van den Bercken, JP Dittrich, B Seeger","SIGMOD RECORD,",2000
+-3JQfRZsy8wJ,java. XXL: A prototype for a library of query processing algorithms,"J van den Bercken, JP Dittrich, B Seeger",International Conference on Management of,N/A
+Dy5Eeh8JzmgJ,XXL: A prototype for a library of query processing algorithms,"J van den Bercken, JP Dittrich, B Seeger",N/A,2000
+KO6M4Fc8-80J,javax. XXL: A Prototype for a Library of Query Processing Algorithms,"J Van der Bercken, JP Dittrich, B Seeger",Proceedings of ACM,N/A
+-CQaLTpGJLQJ,A Critique of ANSI SQL Isolation Levels,"J Gray, UC Berkeley",N/A,N/A
+FIpzjIEyMgMJ,"A Critique of ANSI SQL Isolation Levels, published in:","H Berenson, P Bernstein, J Grayâ?¦",Proceedings of the 1995 ACM SIGMOD,N/A
+gWmqoNZHKAAJ,Neil und P. OÃ¢â?¬â?¢ Neil: A Critique of ANSI SQL Isolation Levels,"H Berenson, P Bernstein, J Gray, JME OÃ¢",Proceedings of the 1995 ACM SIGMOD International Conference ,N/A
+KpQrgYyji34J,A critique of ANSI SQL isolation levels,"H Berenson, P Bernstein, J Gray, J Melton","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",1995
+-lYgZoLNtioJ,"EJOâ??Neil, and PE Oâ??Neil. A critique of ANSI SQL isolation levels","H Berenson, PA Bernstein, J Gray, J Melton","Proceedingsof ACM SIGMOD Conference,",N/A
+MOGnM6t6l3MJ,"eOâ??Neil, P.(1995)â??A Critique of ANSI SQL Isolation Levelsâ??","H Berenson, P Bernstein, J Gray, J Melton","Proceedings of SIGMOD, San Jose, CA,",N/A
+w9IzqrZAa74J,A critique of ANSI SQL isolation levels,POâ??Neil,"A dense, scholarly, oft-cited, hard-to-read, necessary",N/A
+xvAw7wQgenoJ,P. ONeil A critique of ANSI SQL isolation levels,"H Berenson, P Bernstein, J Gray, J Melton","Proceedings of the 1995 ACM SIGMOD International Conference  &hellip;,",N/A
+zguNkU2zLY0J,A critique of ansi isolation levels,"H Berenson, P Bernstein, J Gray, J Melton, EJ Oâ?? ","ACM SIGMOD Int. Conf,",N/A
+AdvsjAZhCc8J,andR. R. Muntz. AFaultTolerantDesignofaMultimedia Server,"S Berson, L Golubchik","InProceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+YkPqPzGFnZIJ,Fault Tolerant Design of Multimedia Servers,"SBL Golubchik, RR Muntz","i&gt; SIGMOD Record,&lt;/i,",N/A
+-A4ypXVd348J,Fault Tolerant Design of Multimedia Servers,S Berson,N/A,1994
+bw_c9Mk0_7IJ,Staggered Striping in Multimedia Information Systems,"S Berson, S Ghandeharizadeh, R Muntz, X Ju","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",1994
+gQAPUymwcAIJ,Staggered striping in multimedia information systems,"RR Muntz, X Ju","ACM SIGMOD,",N/A
+IfRMoLIaeZ0J,andX. Ju. Staggered striping in multimediainformation systems,"S Berson, S Ghandeharizadeh, R Muntz","Proc. of ACM SIGMOD, pages79-60, Minnesota, USA, June,",N/A
+wsG_Q2jbgCAJ,Staggered Striping in Multimedia Information Systems,"S Ghandeharizadeh, RMX Ju",N/A,N/A
+2J_9scP1caYJ,Coordinated Backup and Recovery between DBMS and File Systems,"I Narang, C Mohan, K Brannon","IBM Research Report, IBM Almaden Research Center, Oct,",N/A
+cg01BqanXhUJ,Coordinated Backup and Recovery between Database Management Systems and File Systems,"I Narang, C Mohan, K Brannon, M Subramanian",N/A,N/A
+tsQbSCfQTooJ,Coordinating backup/recovery and data consistency between database and file systems,"S Bhattacharya, C Mohan, K Brannon, I Narang, HI  ","SIGMOD Conference,",2002
+1fs-qN_SdH4J,Data AccessfortheMasses through OLEDB,J Blakeley,"Proc. ACM SIGMOD Conf,",N/A
+37_iwO5NlgwJ,The Masses through OLE DB,JA Blakeley,"Proc. SIGMOD,",N/A
+jQ6eIao6R0EJ,Data Access for the Masses through OLE DB,JA Blakeley,"SIGMOD Conference,",1996
+xZxFCI120eUJ,Data Access for the Masses through OLE DB.  ,JA Blakeley,N/A,1996
+4aSEl4haaq4J,An Open Storage System for Abstract Objects,"S Blott, L Relly, HJ Schek","SIGMOD Conference,",N/A
+8J0wmqs6RfIJ,An open abstract-object storage system,"S Blott, L Relly, HJ Schek","Proceedings of the 1996 ACM SIGMOD international conference  &hellip;,",1996
+Fz7LXJ1UckkJ,An Open Storage System fr Abstract Objects,"S Blott, L Relly, HJ Schek","Proc. ACM SIGMOD Conf,",N/A
+jq_F3lCmTaIJ,An Abstract-Object Storage Manager,"S Blott, L Relly, HJ Schek","&hellip; 1996 ACM SIGMOD Int. Conf. on Management of Data, ACM SIGMOD",N/A
+pS2unAe-n_gJ,"An open storage systemfor abstract objects. InH. V. Jagadish andI. S. Mumick, editors","S Blott, L Relly, HJ Schek",Proc. of the 1996 ACM SIGMOD International Conference on ,N/A
+oulaZpEWkMQJ,InfoSleuth: Semantic Integration of Information in Open and Dynamic Environments (Experience Paper),"RJB Jr., B Bohrer, RS Brice, A Cichocki, J Fowler, ","SIGMOD Conference,",N/A
+SvL_dU_R8msJ,InfoSleuth: Agent-Based Semantic Integration of Information in Open and Dynamic Environments,"R Bayanto, W Bohrer, R Briceâ?¦",Proc. of ACM SIGMOD International Conference Management of ,N/A
+uPx8w3k7NyQJ,Infosleuth: Agent-based semantic integration of information in open and dynamic systems,"RJ Bayardo, W Bohrer, A Cichocki, JJ Fowler, A  ",Proc. ACM Sigmod Intâ??l Conf. Management of,N/A
+wF2-sxlGAu4J,Agent-Based Semantic Integration of Information in Open and Dynamic Environments,"RJ Bayardo, W Bohrer, R Brice, A Cichocki, G  ","ACM SIGMOD Record Vol. 26, No. 2 (June 1997), SIGMODâ??97. ",N/A
+8fu2bhk_i9EJ,Automatic text segmentation for extracting structured records,"VR Borkar, K Deshmukh, S Sarawagi",Proc. ACM SIGMOD International Conf. on Management of,N/A
+8zFEVer1rBUJ,Automatic Segmentation of Text into Structured Records,"VR Borkar, K Deshmukh, S Sarawagi","SIGMOD Conference,",2001
+nsoA6Gcc_jsJ,"K. &amp; Sarawagi, S.(2001). Automatic Segmentation of Text into Structured Records",VD Borkar,Proceedings of the 2001 ACM SIGMOD International Conference ,N/A
+ER8571wXl6EJ,World Wide Database Å? Integrating the Web,A Bouguettayaâ?¦,"CORBA and Databases,",N/A
+siO8kr7vvLEJ,"World Wide Database-Integrating the Web, CORBA, and Databases","A Bouguettaya, B Benatallah, L Hendra, J Beard, K  ",N/A,N/A
+U-Kd4GQ_vCMJ,World Wide Database-Integrating the Web,"A Bouguettaya, B Benatallah, L Hendra, J Beard, K  ",CORBA and,N/A
+37lliRw_cOQJ,M.(1997). Distance-based indexing for high-dimensional metric spaces,TO Bozkaya,Proceedings ACM SIGMOD International Conference on ,N/A
+9QOCoTIXz9kJ,Distance-basedindexing for high dimensional metric spaces,TBM Ozsoyoglu,"Proc. of SIGMOD,",N/A
+gIZvbo_lu2IJ,Distance-Based Indexing for High-Dimensional Metric Spaces,"T Bozkaya, M Ozsoyoglu","SIGMOD REC,",1997
+356Jyb4b6rYJ,Designing an ultra highly available DBMS (tutorial session),"SE Bratsberg, Ã? TorbjÃ¸rnsen","ACM SIGMOD Record,",2000
+af50lhGnD8gJ,An Ultra Highly Available DBMS,"SO Hvasshovd, SE Bratsberg, O Torbjoernsen",N/A,N/A
+jVWhNoPA0CcJ,Designing an ultra highly available DBMS,"O Torbjornsen, S Bratsberg","Proceedings of ACMSIGMOD Conference, Dallas, TX, May,",N/A
+url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D335477%26type%3Dpdf%26coll%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222,Tutorial: Designing an Ultra Highly Available DBMS.,SE Bratsberg,N/A,N/A
+4fjXoCHhe1kJ,Database Patchwork on the Internet,"R Braumandl, A Kemper, D Kossmann","SIGMOD Conference,",1999
+X7jjMIXx8qUJ,Database Patchwork on the Internet: Project Demo,"R Braumandl, A Kemper, D Kossmann","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+ywe7qzk4E5MJ,Database patchwork on the Internet (project demo description),"R Braumandl, A Kemper, D Kossmann","Proc. of the ACM SIGMOD Conf. on Management of Data,",N/A
+_1drQdYrtmsJ,Demonstration of the context interchange mediator prototype,"S Bressan, CH Goh, K Fynn, M Jakobisiak, K Hussein ",N/A,N/A
+1akMDtKXUFAJ,The COntext INterchange Mediator Prototype,"S Madnick, T Pena, J Qu, A Shum, M Siegel","ACM SIGMOD International Conference on Management of Data,",N/A
+jJuSPh63bZ0J,The COntext INterchange Mediator Prototype,S Bressan,N/A,N/A
+url:http://www.csa.com/partners/viewrecord.php%3Frequester%3Dgs%26collection%3DTRD%26recid%3D0294191CI,COntext INterchange mediator prototype,"C Brannon, S Bressan, CH Goh, K Fynn, M Jakobisiak ","SIGMOD REC,",1997
+3ET_IEkoGjYJ,Data Bubbles: Quality Preserving Performance Boosting for Hierarchical Clustering,"MM Breunig, HP Kriegel, J Sander","SIGMOD RECORD,",2001
+h-tyLTytlh4J,Data Bubbles: Quality Preserving Performance Boosting,"M Breuning, HP Kriegel, P KrÃ¶ger, J Sander","Proc. ACM SIGMOD,",N/A
+LxyVmHubIfUJ,Data Bubbles: Quality Preserving Performance Boosting for Hierarchical Clustering ACM SIGMOD,"MM Breunig, HP Kriegel, P KrÃ¶ger, J Sander","Santa Barbara, California,",N/A
+4ZBs-U7sOk0J,Identifying density-based local outliers,"MM Bruenig, HP Kriegel, RT Ng, J Sander","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+8lIwxMfoZN4J,"RT ng,, and J. Sander. Lof: Identifying density-based local outliers","MM Breuing, HP Kriegel",N/A,2000
+KILdAgEb2OsJ,"LOF: Identifying DensityBased Local Outliers, ACM SIGMOD Conference, vol","MM Breunig, HP Kriegel, RT Ng, J Sander","Dallas, TX, May,",N/A
+vezxTIGxNywJ,LOF: Identifying Density-Based Local Outliers,"MM Breunig, HP Kriegel, RT Ng, J Sanderâ?¦",N/A,N/A
+7mNCkZ7D-R8J,Copy Detection Mechanisms for Digital Documents,"S Brin, J Davis, H Garcia-Molina","SIGMOD Conference,",1995
+JsKYXyM6IaEJ,SCAM: A Copy Detection Mechanism for Digital Documents,"N Shivakumar, H Garcia-Molina",N/A,N/A
+QmhdqC_PIWsJ,Copy detection mechanismsfor digital documents,"S Brin, J Davis, H Garcia-Molina","Proceedings of the ACM Special Interest Group on Management  &hellip;,",N/A
+cb1kf4z7hA4J,Multi-Step Processing of Spatial Joins,"T Brinkhoff, HP Kriegel, R Schneider, B Seeger",N/A,N/A
+e4s7pmZj8UAJ,andB. Seeger. Multistep processing of spatial joins,"T Brinkhoff, HP Kriegel, R Schneider",Proc. of ACM,N/A
+IINRwK8hovkJ,"H.-P., Kriegel, R. Schneuder, and B. Seeger,â??Multi-Step Processing of Spatial Joins,â??",T Brinkhoff,Proc. Intâ??l Conf on Management of,N/A
+qk4kfo7BXvUJ,1994 . Multi-step processing of spatial joins,"T Brinkho, HP Kriegel, R Schneider, B Seeger",Proc. ACM SIGMOD Int. Conf. on Management of,N/A
+RWhfLTpLoQUJ,Schneider: Multi-Step Processing of Spatial Joins,"T Brinkhoff, HP Kriegel","Proc. ACM-SIGMOD Intl. Conf. on Management of Data,  &hellip;,",N/A
+41B5NuefLPsJ,Beyond market basket: Generaliing association rules to correlations,"S Brin, R Motwani, C Silverstein",Proceedings of the 1997 ACM-SIGMOD Conference on Management ,N/A
+6sRWyw06gJIJ,C. Silverstein. Beyond market baskets: generalizing association rules to correlations,"S Brin, R Motwani",Proceedings of the ACM SIGMOD Conference on Management of ,N/A
+AXRuaD-82zEJ,Beyond market baskets: Generalizing association rules to correlations,"B Sergey, M Rajeev, S Craig","Proceedings of the ACM SIGMOD international conference on  &hellip;,",N/A
+COUbnKv6QeMJ,Beyond market baskets: generalized associations rules to correlations,"S Brin, R Motwani, C Silverstein","Proceedings of ACM SIGMOD,",N/A
+Innqdf1794AJ,Beyond Market: Generalizing Association Rules to Correlations,"S Brin, R Motwani, C Silverstein","Processing of the ACM SIGMOD Conference,",N/A
+lx7jXjm_Fa0J,"Beyond Market Baskets: Generalizing Association Rules to Correlations, SIGMOD 1997","S Brin, R Motwani, C Silverstein","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+OiHYG-Al8G8J,Beyond market baskets: Generalizing association rules to correlations,"S Brin, C Silverstein",N/A,1996
+QrVdOEkY844J,Beyond market basket analysis: Generalizing association rules to correlations,"S Brin, R Motwani, L Page, T Winograd","ACM SIGMOD Conference,",N/A
+-tbXaORoThUJ,Beyond Market Baskets: Generalizing Association Rules to Correlations,"C Silverstein, R Motwani, S Brin","Proc. ACM SIGMOD Conf,",N/A
+0cOrb6RuPW0J,Dynamic Itemset Counting and Implication Rules for Market Basket Data,"BS Motwani, J Ullman, S Tsur","Proceedings of the 1997 ACM-SIGMOD International Conference  &hellip;,",1997
+77hnYp9ky9IJ,andS. Tsur. Dynamicitemset counting and implication rules for market basket data,"S Brin, R Motwani, J Ullman","ACM SIGMOD Conf. Management of Data, May,",N/A
+A7Mm5kFK3zwJ,Dynamic itemset counting and implication rules for market basket analysis,"S Brin, R Motwani, JD Ullman, S Tsur",N/A,N/A
+aOBNgdooDHAJ,Dynamic itemset Counting and Implication Rules fopr Market Basket Data,"S Brin, R Motwani, JD Ullman, S Tsur",Proc.,N/A
+APKRvVY4Ah8J,Dynamic Iternset counting and impficalion rules for market basket data,"S Brin, R Motwani, JD Ullman, S Tsur","ACM SIGMOD International Conference On the Management of  &hellip;,",N/A
+bjZ8SxYnrd0J,Dynamic itemsets and implication rules in market basket data,"S Brin, R Motwani, J Ullman, S Tsur",ACM SIGMOD int. conf. on Management of,N/A
+CnTgirrsL3EJ,Dynamic Itemset Counting and Implication Rules for Market Basket Data&quot;. Int. Conf,"S Brin, R Motwani, J Ullman, S Tsur","Management of Data,",N/A
+FtMoh58D330J,Dynamic Itemset Counting and Implication Rules for Retail Data,"S Brin, R Motwani, JD Ullmanâ?¦",Proc. of the ACM SIGMOD Intâ??l Conf. on Management of,N/A
+JBB4svDpBF8J,"en Tsur S, 1997,â??Dynamic Itemset Counting and Implication Rules for Market Basket Dataâ??","S Brin, R Motwani, JD Ullman","Proceedings of the International ACM SIGMOD Conference, ",N/A
+swPpkmm8SdYJ,Dynamic itemset counting and implication rules for market basket data,"S Brin, R Motwani, JD Ullman, S Tsur",N/A,1997
+VBB3teN9P6EJ,S. Tsur Dynamic Itemset Counting and Implication Rules for Market Basket Data,"SM Brin, R Ullman","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+vIwsSOGQOWAJ,Dynamic itemset countingand implication rules for market basket data,"S Brin, R Motwani, J Ullman, S Tsur","&hellip;  of the ACM International Conference on Management of Data ( &hellip;,",N/A
+ZAjbM4H53aUJ,Dynamic itemset counting and implication rules,"S Brin, R Motwani, J Ullman, S Tsur","Proceedings ACM SIGMOD, International conference on ",N/A
+_cUSf4sG_28J,The CCUBE constraint object-oriented database system: an overview,"A Brodsky, VE Segal","Proc. Second International Workshop on Constraint Database  &hellip;,",N/A
+34a4H8ATLxcJ,The CCUBE constraint object-oriented database,"A Brodsky, VE Segal, J Chen, PA Exarkhopoulo",Proc. ACM SIGMOD Conf. on Management of,N/A
+jnBo-gBTmAcJ,The CCUBE Constraint Object-Oriented Database System,"A Brodsky, VE Segal, J Chen, PA Exarkhopoulo","Constraints,",1997
+8KJ9XFv1ESAJ,STHoles: A Multidimensional Workload-Aware Histogram,"N Bruno, S Chaudhuri, L Gravano","SIGMOD Conference,",2001
+SGmfFHnOf4IJ,STHoles: a multidimensional workload-aware histogram In: Proceedings of the 2001 ACM SIGMOD  ,"N Bruno, S Chaudhuri, L Gravano","Santa Barbara, May,",N/A
+XWF4kOtaoJkJ,STHoles: A Workload Aware Multidimensional Histogram,"N Bruno, L Gravano, S Chaudhuri","Proceedings of the ACM SIGMOD Conference,",N/A
+2VpRW4Tf08EJ,andD. Srivastava. HolisticTwigJoins: OptimalXMLPatternMatching,"N Bruno, N Koudas",Proc. of the ACM SIGMOD Int. Conf. on Management of,N/A
+4pZ4Shr2bMwJ,Holistic Twig joins: Optimal XML pattern matching,"B Nicolas, K Nick, S Divesh","Proc. of the ACM SIGMOD Int&#39;l Conf. on Management of Data,",N/A
+GahdNMZNCWgJ,Holistic twig joins: optimal XML pattern matching,"N Bruno, N Koudas, D Srivastava",N/A,N/A
+4pl5VSwjXj0J,"The REACH Active OODBMS, 1995","AP Buchmann, A Deutsch, J Zimmermann",Technical University,N/A
+IU1cjdPVT6cJ,The REACH Active DBMS,"AP Buchmann, A Deutsch, J Zimmermann","Proc. Intl. Conference on Management of Data (SIGMOD), San  &hellip;,",N/A
+MoNBLfTlYg0J,The REACH active OODBMS,"AP Buchmann, A Deutsch, J Zimmermann, M Higa","Proceedings of the 1995 ACM SIGMOD International Conference  &hellip;,",1995
+QzpePwRoku8J,The REACH Active OODBMS.,"ACMS Anthology, P Edition",N/A,N/A
+AtUsoMh8rY4J,A Query Language And Optimization Techniques For Unstructured DataÂ» In SIGMOD,"P Buneman, S Davidson, G Hillebrand, D Suciu","San Diego,",N/A
+BQltSXRqmSEJ,andG. HD Suciu. Aquerylanguageandoptimizationtechniques forunstructured data,"P Buneman, S Davidson","Proceedings of ACM SIGMOD Conference,",N/A
+Da60jinzi-IJ,"e Suciu, D.,â??A query language and optimisation techniques for unstructured dataâ??","P Buneman, S Davidson, G Hillebrand","Proceedings ACM-SIGMOD International Conference on  &hellip;,",N/A
+eB6xi8_wg3QJ,"A query language and optimization techniques for unstructured data. University of Pennsylvania,  ","P Buneman, S Davidson, G Hillebrand, D Suciu","Technical Report MS-CIS 96-09,",N/A
+ngbxnQMSWfkJ,Optimization Techniques for Unstructured Data,"P Buneman, S Davidson, G Hillebrand, D Suciu, A  ","Proc. of SIGMOD, San Diego,",N/A
+R128Of6zyGgJ,A query languageand optimizationtechnieques for unstructured data,"P Buneman, S Davidson, G Hillebrand, D Suciu",Proceedings of the ACM SIGMOD International Conference on ,N/A
+rNVPCLfguuMJ,A Query Language and Optimization Techniques for Unstructured Data,"P Buneman, S Davidson, G Hillebrand, D Suciu","SIGMOD Conference,",1996
+Wo7In8pIWJ4J,A query languageand optimization techniquesfor unstructured data,"P Buneman, S Davidson, G Hillebrand, D Suciu","Proceedings of ACM-SIGMOD International Conference on  &hellip;,",N/A
+ZTBiopwBpLgJ,A querying language and optimization techniques for unstructured data,"P Buneman, S Davidson, G Hillebrand","Proceedings of ACM SIGMOD Conference on Management of Data,  &hellip;,",N/A
+8UP-2TRKI5wJ,Automatic Discovery of Language Models for Text Documents,"J Callan, M Connell, A Du","ACM SIGMOD Conference,",N/A
+eWVreKOw_QgJ,Automatic Discovery of Language Models for Text Databases,"J Callan, M Connell, A Du","SIGMOD Conference,",1999
+hqItKlvGzJIJ,andA. Du. Automaticdiscoveryoflanguagemodelsfortextdatabases,"J Callan, M Connell",Proceedings of the ACM-SIGMOD International Conference on ,N/A
+E1oiXxVyfXwJ,Enabling. Enabling Dynamic Content Caching for Database-driven Web Sites,"KS Candan, WS Li, Q Luo, WP Hsiung, D Agrawal",ACM,N/A
+efYVCK07AwMJ,Enabling dynamic content caching for database-driven web sites,"KS Candan, WS Li, Q Luo, WP Hsiung, D Agrawal","Proceedings of the 2001 ACM SIGMOD international conference  &hellip;,",2001
+T6NrBxCU2moJ,Enabling Dynamic Content Caching for Database-Driven Web Sites,"K Selcuk, WS Li, Q Luoand, WP Hsiung, D Agrawal","ACM SIGMOD Conference,",N/A
+RRLtMwMOBe4J,Of XML and Databases: Whereâ??s the Beef,"P Discussion, MJ Carey","ACM SIGMOD Conference,",N/A
+url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D335476%26type%3Dpdf%26dl%3DGUIDE%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222,Of XML and Databases: Where's the Beef?,M Carey,"SIGMOD RECORD,",2000
+x6n6Ev8WnhEJ,On XML and Databases: Where's the Beef? (Panel Abstract),MJ Carey,N/A,N/A
+0oPBNo-ofPkJ,Shoring up persistent applications,"MJ Carey, DJ DeWittâ?¦",N/A,N/A
+3_X-dmpUEWMJ,On Shoring Up Persistent Applications,M Zwillingâ?¦,"Proc. of ACM SIGMOD,",N/A
+5wcgt7bNx7YJ,"Shoring Up Persistent Applications, ACM SIGMOD International Conference on Management of Data","MJ Carey, DJ DeWitt, MJ Franklinâ?¦","Minneapolis, Minnesota. May,",N/A
+dP-pHDZ7oawJ," , DT Solomon, MH Tan, CK Tsatalos, OG White, SJ Zwilling, MJ: Shoring Up Persistent Applications","MJ Carey, DJ DeWitt, MJ Franklin","SIGMOD (siehe SIG94]), S.",N/A
+GJ_7cqL0d70J,"0. G. Tsatalos, SJ White, and MJ ZwiIIing. Shoring up persistent applications","MJ Carey, DJ DeWitt, MJ Franklin, NE Hall, ML  ",Proc. ACM SIGMOD,N/A
+jMc3U-zRTPEJ,Shoring Up Persistent Applications Proc. of the 1994 ACM SIGMOD Conference,"M Carey, D DeWitt, J Naughton, M Solomonâ?¦","Minneapolis, MN, May,",N/A
+PPV8eOf-uooJ,DeWitt. Shoring up persistent applications,MJ Carey,Proc. of the ACM SIGMOD Intâ??l Conference on Management of ,N/A
+vF-KpOq9TdIJ,Shoring up Persistent Objects,"M Carey, D DeWitt, MJ Franklin, N Hall, M  ","PIV-ceeding of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+GmUD1o-uPvYJ,The BUCKY Object-Relational Benchmark,MJ Carey,"SIGMOD REC,",1997
+mt8Q1YmVRkMJ,The BUCKY Object-Relational Benchmark (Experience Paper),"MJ Carey, DJ DeWitt, JF Naughton, M Asgarian, P  ","SIGMOD Conference,",N/A
+xc1E6MOfP80J,The BUCKY Object-Relational Benchmark,"M Asgarian, MJ Carey, DJ DeWitt, J Gehrke, JF  ","Proc. ACM SIGMOD conf,",N/A
+Y1Z4i3_4l00J,The BUCKY Object-Relational Benchmark,"DJ DeWitt, M Carey, J Naughton, M Asgarian, J  ",N/A,1997
+Zkgpz6ZsutsJ,"Ã¢â?¬ Å?The BUCKY Object Relational Benchmark,&quot;","MJ Carey, DJ DeWitt, JF Naughton, M Asgarian, P  ","Proceedings of the SIGMOD conference on management of data,  &hellip;,",N/A
+_Dtj6cJQFAQJ,"Fine-Grained Sharing in a Page Server OODBMS,&quot; ACM SIGMOD Intl","M Carey, MJ Franklin, M Zaharioudakis","Conf. on Management of Data, Minneapolis, MI, May,",N/A
+EN1nFWJxnoIJ,Fine-grained sharing in a page server OODBMS,"MJ Carey, MJ Franklin, M Zaharioudakis","Proceedings of the 1994 ACM SIGMOD international conference  &hellip;,",1994
+nJfKRCyyzIYJ,Fine-Grained Sharing in a Page Server DBMS,"M Carey, M Franklin, M Zaharioudakis",Proc. of ACM,N/A
+UBpDljYCfGgJ,"MJ, AND ZAHA RIO UDAKIS, M. 1994. Fine-grained sharing in a page server OODBMS","MJ CAREY, N FRANKLI",Proceedings of the 1994 ACM-SIGMOD International Conference ,N/A
+xuE2g4v2AjYJ,Fine-grained sharing in page server database systems,"M Carey, M Franklin, M Zaharioudakis","Proc. ACM SIGMOD Conf,",N/A
+2OPEy9_6BlEJ,On saying â??enough already!â??,"MJ Carey, D Kossmann",SQL. In Proc. of the ACM SIGMOD Conf. on Management of,N/A
+b_lpj8wu7BEJ,On Saying&quot; Enough Already!&quot; in SQL,"MJ Carey, D Kossmann",N/A,N/A
+G2RzED0JGvoJ,BOn Saying BEnough Already![in sql [,"M Carey, D Kossmann","ACM SIGMOD Conference,",N/A
+ucdmk8xwaTsJ,On saying&quot; enough already!&quot;,"D Kossmann, M Carey","&hellip;  in â??Proc. of the 1997 ACM-SIGMOD Conference on Management &hellip;,",N/A
+yuAO6FZOXmQJ,On saying Ã¢â?¬ Å?enough already! Ã¢â?¬Â? in SQL,"MJ Carey, D Kossmann",Proc. ACM SIGMOD,N/A
+6YXYnLb8CyYJ,"Object-relational database systems: Principles, products, and challenges","MJ Carey, NM Mattos, AK Nori","SIGMOD RECORD,",1997
+dBgA1e-6LvkJ,"Object-Relational Database Systems-Principles, Products and Challenges","K Kulkarni, N Mattos, A Nori",N/A,1997
+nM9bJESsWNoJ,"Object-relational database systems (tutorial): principles, products and challenges","MJ Carey, NM Mattos, AK Nori","Proceedings of the 1997 ACM SIGMOD international conference  &hellip;,",1997
+u64n4yMnma4J,"Object-Relational Database Systems: Principles, Products, and Challenges (Tutorial)","MJ Carey, NM Mattos, A Nori","SIGMOD Conference,",N/A
+ga4l4QhCXU4J,Query by Diagram: A Graphical Environment for Querying Databases,"T Catarci, G Santucci","SIGMOD Conference,",1994
+pryJrhEGI2sJ,QUERY BY DIAGRAM: A GRAPHICAL ENVIRONMENT FOR QUERYING DATABASES,"DI e Sistemistica, L Sapienza",N/A,N/A
+yaaZKZCP3soJ,Query by Diagram: a Visual Environment for Querying Databases,"G Santucci, PA Sottile",N/A,N/A
+5Ng-bLUNAsQJ,Sentinel: an object-oriented DBMS with event-based rules,S Chakravarthy,"ACM SIGMOD Record,",1997
+pCsAI2xXTPoJ,SENTINEL: An Object-Oriented DBMS With Event-Based Rules.,"ACMS Anthology, P Edition",N/A,N/A
+xAwNq-a4ju0J,S&amp;Nâ??TZN&amp;L: An Object-Oriented DBMS With Event-Based Rules,S Chakravarthy,N/A,N/A
+eOhZfLS25AsJ,TelegraphCQ: Continuous Dataflow Processing for an Uncertain World,"S Chandrasekaran, O Cooper, A Deshpande, MJ  ",N/A,N/A
+MNuT46WJZaQJ,TelegraphCQ: continuous dataflow processing,S Chandrasekaran,"Proceedings of the 2003 ACM SIGMOD international conference  &hellip;,",2003
+onlybp6SAAsJ,AD 2003. TelegraphCQ: Continuous Dataflow Processing for an Uncertain World,"S Chandrasekaran, O Cooperâ?¦",Proc. of the Conf. on Innovative Data Systems Research (CIDR,N/A
+BGagLieYacQJ,PBIR-Perception-Based Image Retrieval,E Chang,N/A,N/A
+XbmULzOYzZUJ,Perception-based image retrieval,"E Chang, T Cheng","ACM Sigmod (Demo),",N/A
+10FYofnRROUJ,QUERY AND DATA MAPPING ACROSS HETEROGENEOUS INFORMATION SOURCES,KCC Chang,N/A,2001
+8Yt1Mba9-wQJ,Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources,"CCK Chang, H Garcia-Molina","SIGMOD Conference,",1999
+BYkCvtDCxzcJ,Mind your vocabulary: Query mapping across heterogeneous information sources (extended version),CCK Chang,N/A,N/A
+vjxJ_rBwdMkJ,Mind your Vocabulary: Query Mapping across Heterogeneous Information Sources. ACM SIGMOD Int,"CCK Chang, H Garcia-Molina","Conference on Management of Data,",N/A
+4zxRX5K-YSsJ,Minimal probing: supporting expensive predicates for top-k queries,"KCC Chang, S Hwang","SIGMOD Conference,",2002
+OuMumdGAaq8J,"CC., and Hwang, SW.,&quot; Minimal probing: Supporting expensive predicates for top-k queries,&quot;",K Chang,"Proceedings of the 2002 ACM SIGMOD Conference,",N/A
+39AOIRe9qSQJ,"Bitmap Index Design and Evaluation, SIGMOD 1998","C Chan, YE Ioannidis","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+63t-u0Menw4J,IoannidisY. Bitmap index design and evaluation,CY Chan,Proc. oftheACM SIGMOD Conf. on Management,N/A
+MsOTH7U9VnkJ,Bitmap Index Design and1 Evaluation,"CY Chan, YE Ioannidis",Proceedings of the Intl. ACM SIGMOD,N/A
+VC7Jbwgn_O0J,Bitmap Index Design and Evaluation,"CY Chan, YE Ioannidis","SIGMOD Conference,",1998
+kNT7yt823K8J,An Efficient Bitmap Encoding Scheme for Selection Queries,CY Chan,"SIGMOD Conference,",1999
+uLiEqn5nA_IJ,"An Efficient Bitmap Encoding Scheme for Selection Queries, SIGMOD 1999","C Chan, YE Ioannidis","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+9GsZHpVf2_cJ,Query Optimization at the Crossroads,S Chaudhuri,"SIGMOD RECORD,",1997
+QkyXMep2bWsJ,Query Optimization at the Crossroads (panel session),S Chaudhuri,Proc. 1997 ACM SIGMOD Int. Conf. on Management of,N/A
+4zZ7Lxt4PPIJ,Data Warehousing and OLAP for Decision Support (Tutorial),"S Chaudhuri, U Dayal","SIGMOD Conference,",N/A
+ClO4zHQ7RYsJ,"Decision support, Data Warehousing, and OLAP","S Chaudhuri, U Dayal","Tutorials of the Twenty-second Int. Conf. on Very Large Data &hellip;,",N/A
+D7w6TQwatE0J,Data warehousing and OLAP for decision support,"S Chaudhuri, U Dayal","Proceedings of the 1997 ACM SIGMOD international conference  &hellip;,",1997
+gY652XXjHB8J,"Decision support, data warehousing and olap, 1996","S Chaudhuri, U Dayal","VLDB tutorial, Bombay,",N/A
+jsapF3OoWXcJ,Data warehousing and olap technology,"S Chaudhuri, U Dayal","SIGMOD RECORD,",N/A
+lCQ0HZYyYNcJ,"A Robust, Optimization-Based Approach for Approximate Answering of Aggregation Queries","S Chaudhuri, G Das, V Narasayya",Proc.,N/A
+qfohkpyTawoJ,"A Robust, Optimization-Based Approach for Approximate Answering of Aggregate Queries","S Chaudhuri, G Das, V Narasayya","SIGMOD Conference,",2001
+0LRr6nTypA4J,Join queries with externaltext sources: Executionand optimization techniques,"S Chaudhuri, U Dayal, T Yan",Proc. of the ACM SIGMOD Intl. Conferenceon Managementof,N/A
+aaQEdfkjWN8J,Join Queries with External Text Sources: Execution and Optimization Techniques,"S Chaudhuri, U Dayal, TW Yan","SIGMOD Conference,",1995
+H5IdN0_MQw4J,Robust and Efficient Fuzzy Match for Online Data Cleaning,"S Chaudhuri, K Ganjam, V Ganti, R Motwani","SIGMOD Conference,",2003
+mNdoyLMYPqgJ,Robust and efficient fuzzy match for online data cleaning,"V Ganti, S Chaudhuri, R Motwani",N/A,2003
+KrfR8djb3C8J,Compressing SQL workloads,"S Chaudhuri, AK Gupta, VR Narasayya",N/A,N/A
+y461yNb2GEcJ,Compressing SQL Workloads,S Chaudhury,ACM SIGMOD,N/A
+3fEogSGG3wQJ,Using Random Sampling for Histogram Construction,"S Chaudhuri, R Motwani, V Narasayya","Proc. ACM SIGMOD Conference,",N/A
+bFDFn3OmNAQJ,Sampling for Histogram Construction: How much is enough In,"SC CMN, R Motwani, VR Narasayya",Proceedings of the ACM SIGMOD International Conference on ,N/A
+CBKhTPuUL2kJ,Random Sampling for Histogram Construction: How Much is Enough?,"R Motwani, S Chaudhuri, V Narasayya",N/A,1998
+hvMTb3FYOjQJ,Random Sampling for Histogram Construction: How much is enough?,"S Chaudhuri, R Motwani, V Narasayya","SIGMOD Conference,",1998
+Lnp1RVSzInEJ,Sampling for Histogram Construction: How much is enough,"S Chaudhuri, R Motwani, VR Narasayya",Proceedings of the ACM SIGMOD International Conference on ,N/A
+niAPzsMp2igJ,Using random sampling for histogram construction: how much is enough,"S Chaudhuri, R Motwani, V Narassaya","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+pVsFKVZNgD4J,Random sampling for histogram construction,S Chaudhuriâ?¦,N/A,1998
+TqXFdQBTW6kJ,Random sampling for histogram construction: How much is enough? pages 436--447,"S Chaudhuri, R Motwani, V Narasayya",N/A,1998
+clNmwzm-5acJ,On Random Sampling over Joins,"SC CMN, R Motwani, VR Narasayya",Proceedings of the ACM SIGMOD International Conference on ,N/A
+GL8XEeYm7GsJ,Random Sampling over Joins: Efficient Implementations and Limitations,"S Chaudhuri, R Motwani, V Narasayya","Proceedings of the 1999 ACM SIGMOD Conference on Management  &hellip;,",N/A
+U0w9W7YcsZwJ,On Random Sampling over Joins,"S Chaudhuri, R Motwani, VR Narasayya",N/A,N/A
+99oqRZGWAYMJ,AutoAdmin'What-if'Index Analysis Utility,"S Chaudhuri, V Narasayya",N/A,N/A
+eHM4OCdJA9YJ,AutoAdmin â??whatifâ?? index analysis utility,"S Chaudhuri, V Narasayya","Proceedings of the 1998 ACM SIGMOD International Conference  &hellip;,",N/A
+lXZzpSDzRnwJ,Narasayya. AutoAdmin â??What-Ifâ?? IndexAnalysis Utitlity,S Chaudhuri andV,N/A,N/A
+qGTxTpQXTDsJ,R. Narasayya. AutoAdmin'Whatif'Index Analysis Utility,S ChaudhuriandV,Proc. of ACM SIGMOD,N/A
+RYeFLYha0ewJ,AutoAdmin What-if Index Analysis Utility for Microsoft SQL Server,"S Chaudhuri, V Narasayya","Proc. of ACM SIGMOD Conf,",N/A
+AiXOfJPvvpUJ,Microsoft Index Tuning Wizard for SQL Server 7.0,"S Chaudhuri, VR Narasayya",N/A,N/A
+JyEX0YVMP5oJ,"Microsoft Index Tuning Wizard for SQL Server 7.0'', Procs. of the 1998 ACM SIGMOD Conf","S Chaudhuri, V Narasayya",N/A,1998
+Y-kXztd20YQJ,Microsoft index tuning wizard forSQL Server 7.0,"S Chaudhuri, VR Narasayya","Proc. of SIGMOD,",N/A
+5O88Bum19wAJ,Meaningful Change Detection in Structured Data,"SS Chawathe, H Garcia-Molina",N/A,N/A
+JLeihu2aUqYJ,H. Garcia-Molina Meaningful change detection in structured data,S Chawathe,Proc. of the ACM SIGMOD Int. Conf. on Management of,N/A
+oHUiSrycKdgJ,Meaningful change detection in structured data. Available at url http://www-db,"S Chawathe, H Garcia-Molina",N/A,1997
+ilCT5UFnHxgJ,Change Detection in Hierarchically Structured Information,"SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom","SIGMOD Conference,",1996
+vBlDkLyxeQkJ,"H. Garcia-M olina, and J. Widom. Change detection in hierarchically structured information","S Chawathe, A Rajaraman","Technical report, Dept. of Computer Science, Stanford University",N/A
+xPkLZK36UBUJ,Change detection in hierarchically structured information. Available by anonymous ftp from db,"S Chawathe, A Rajaraman, H Garcia-Molina, J Widom",N/A,1995
+Xz0ZPMLOwcgJ,J. Widom Change detection in hierarchically structured information,"S Chawathe, A Rajaraman, H Garcia-Molina",Proc. of the ACM SIGMOD Int. Conf. on Management of,N/A
+Ab6MIDVDzhAJ,Internet traffic warehouse,"CM Chen, M Cochinwala, C Petrone, M Pucci, S  ","ACM SIGMOD Record,",2000
+G_vKTsC4EaAJ,Internet trac warehouse,"CM Chen, M Cochinwala, C Petrone, M Pucci, S  ","Proc. SIGMOD,",N/A
+egF3o1jH_kgJ,Evaluating probabilistic queries over imprecise data,"D Kalashnikov, R Cheng, S Prabhakar","ACM SIGMOD,",N/A
+kSt-Pqp2ilYJ,Evaluating Probabilistic Queries over Imprecise Data,"R Cheng, DV Kalashnikov, S Prabhakar","SIGMOD Conference,",2003
+dyXJODAynUgJ,Improving Index Performance Through Prefetching,"C Shimim, PB Gibbons, TC Mowny","ACM SIGMOD,",N/A
+IuyDb53VoG0J,Improving Index Performance through Prefetching,"S Chen, PB Gibbons, TC Mowry",N/A,N/A
+-wJwlZO2F-kJ,Improving Index Performance through Prefetching,"SCPB Gibbons, TC Mowry",N/A,N/A
+5Trj9q_RI8YJ,NiagaraCQ: A Scalable Continuous Query System for Internet Databases,"C Jian-jun, J Dewitt David, F Tianâ?¦","SIGMOD Conference,",N/A
+EKNLKC2nEGwJ,WangY (2000) NiagaraCQ: a scalable continuous query system for internet databases,"J Chen, DT DeWitt, F Tian",Proceedings of the ACM SIGMOD,N/A
+fg5EE6R7xYwJ,NiagaraCQ: A Scalable Continuous Query System for Internet Databases,"J Chen, DJ DeWitt, F Tian, Y Wang","SIGMOD Conference,",2000
+JcnZJ-eE2XsJ,NiagaraCQ: a scalable continuous querysystemfor Internetdatabases,"J Chen, DJ DeWitt, F Tian, Y Wang","SIGMOD Conference,",N/A
+KlxPr0YoE_sJ,A scalable continuous query system for internet databases,"J Chen, TF DJ, Y Wang",N/A,2000
+OsfWKJek9L8J,NIAGARACQ: Continuous Queries,J Chenâ?¦,"&hellip;  of the 2000 ACM SIGMOD Conference, Dallas, TX, May,",N/A
+QiSf-FBUE8QJ,Niagaracq: A scalable continous query system for the internet databases,"J Chen, D DeWitt, F Tian, Y Wang",ACM,N/A
+4Hhh-d__bksJ,Adaptive Selectivity Estimation Using Query Feedback,"CM Chen, N Roussopoulos","SIGMOD Conference,",1994
+7Edh53sUX7kJ,"Adaptive selectivity estimation using query feedback, University of Maryland at College Park,  ","CM Chen, N Roussopoulos","MD,",N/A
+hlQJGQCSurIJ,Adaptive Selective Estimation Using Query Feedback,"CM Chen, N Roussopoulos","&hellip;  of ACM-SIGMOD International Conference on Management of  &hellip;,",N/A
+WJDiW8pl0OcJ,"Adaptive selectivity estimation using query feedback. In 1. T. Snodgrass and M. Winslett, editors","CM Chen, N Ronssopoulos",Proceedings of the 1994 ACM SIGMOD International Conference ,N/A
+15Xnu2VYNAQJ,DyDa: Dynamic Data Warehouse Maintenance in a Fully Concurrent Environment,"X Zhang, EA Rundensteiner",N/A,N/A
+q49c-IEX7N8J,DyDa: Data Warehouse Maintenance in Fully Concurrent Environments,"J Chen, X Zhang, S Chen, A Koeller, EA  ","SIGMOD Conference,",2001
+RHoy5iOHsJwJ,DyDa: Data Warehouse Maintenance under Fully Concurrent Environments,"J Chen, X Zhang, S Chen, K Andreas, EA  ","Proceedings of SIGMOD Demo Session, page,",N/A
+aQc379dSLlIJ,"Ã¢â?¬ Å?Rule languages and internal algebras for rule-based optimizers,&quot;","M Cherniak, SB Zdonik","Proceedings of the SIGMODconference on management of data,  &hellip;,",N/A
+c9Humx2-EMgJ,Rule Languages and Internal Algebras for Rule-Based Optimizers,"M Chemiack, S Zdonik","Proc. of the ACM SlGMOD Int. Co@ on Management of Data, ",N/A
+ZsHfcZJwFQQJ,Rule Languages and Internal Algebras for Rule-Based Optimizers,"M Cherniack, SB Zdonik","SIGMOD Conference,",1996
+_wJZsVYdrr8J,Changing the Rules: Transformations for Rule-Based Optimizers,"M Chemiack, S Zdonik",N/A,N/A
+7DFhNMAE13QJ,Changing the Rules: Transformations for Rule-Based Query Optimizers,"M Cherniack, SB Zdonik",Proc. ACM SIGMOD IntÃ¢â?¬â?¢ l Conference of Management of ,N/A
+7TNK4262ozwJ,Garcia-Molina. Synchronizing a database to improve freshness,J Cho andH,"Proc. of the ACM SIGMOD Int. Conf. on Management of Data,",N/A
+s7K6rICx3fkJ,Synchronizing a Database to Improve Freshness,"J Cho, H Garcia-Molina",N/A,N/A
+yUZCropW2lQJ,"Garcia-Molina, H.: Synchronizing a database to Improve Freshness",J Cho,&hellip;  of 2000 ACM International Conference on Management of Data ,N/A
+5awQcPWFBrcJ,Prospector: A content-based mutimedia object server for massively parallel architectures,"WOâ??Connell, IT Ieong, D Schraderâ?¦","Proc. ACM SIGMOD,",N/A
+I0KBB-n-eF8J,"etal., Prospector: A Content-Based Multimedia Object Server for Massively Parallel Architectures","WOâ??Connell, IT Ieong, D Schrader","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+Ljpkq7MPqeEJ,Prospector: A Content-Based Multimedia Server for Massively Parallel Architectures,"WOâ??Connell, IT Ieong, D Schrader, C Watson, G Au ",Proceedingsof the 1996 ACM SIGMOD International Conference ,N/A
+O-TrhFwhKM8J,A Content-Based Multimedia Server for Massively Parallel Architectures,"WO'Connell, IT Ieong, D Schrader, C Watson, G Au,  ","SIGMOD Conference,",N/A
+url:http://portal.acm.org/ft_gateway.cfm%3Fid%3D280357%26type%3Dpdf%26dl%3Dportal%26dl%3DACM%26CFID%3D11111111%26CFTOKEN%3D2222222,Prospector: A Content-Based Multimedia Server for Massively Parallel Architectures,", H Chen, A Biliris, E Panagos",N/A,N/A
+WrrEnOJswS4J,Prospector: A Content-Based Multimedia Server for Massively Parallel Architectures,"G Au, A Biliris, H Chen, S Choo, K Ganapathy, G  ","SIGMOD RECORD,",1996
+dGbuUkhWNhMJ,From Structured Documents to Novel Query Facilities,"V Christophides, S Abiteboul, S Cluet, M Scholl","SIGMOD Conference,",1994
+g_ccBI89OZwJ,Fromstructured documents tonovelqueryfacilities,"V Christophides, S Abiteboul, S Cluet, M Scholl",Proceedings of ACM SIGMOD Conference on Management of,N/A
+MNQLc3rxq2kJ,andM. Scholl. FromStructured DocumentstoNovelQuery Facilities,"V Christophides, S Abiteboul, S Cluet",Proc. of ACM SIGMOD Conf. on Management of,N/A
+PYvxitTViMQJ,"SCHOLL., M.(1994):â??From Structured Documents to Novel Query Facilitiesâ??","V CHRISTOPHIDES, S ABITEBOUL, S CLUET",Proceedings of,N/A
+T8v6sQ1R3zoJ,"V. andAbiteboul, S. Cluet, and M. Scholl. From structured documents to novel query facilities",S Christophides,N/A,N/A
+wOEzWDOEIjwJ,"From structured documents to Novel query facilities, in proc. of ACM SIGMOD Conference, may 1994","V Christophides, S Abiteboul, S Cluet, M Scholl",N/A,N/A
+WYSBGO-zyoEJ,From structured documentsto novel query facilities,"V Christophides, S Abiteboul, S Cluet, M Scholl","Proceedings of the ACM-SIGMOD International Conference on  &hellip;,",N/A
+ZkgTPp9m5z4J,From Structured Documents to Novel Query Facilities,"S Abiteboul, V Christophides, S Cluet, M Scholl","Proc. 1994 ACM SIGMOD Int. Conf. on Management of Data,",N/A
+GpGg0czXSQcJ,Evaluating queries with general path expressions,"V Christophides, S Cluet, G Moerkotte",N/A,N/A
+nDl2k1YSi8AJ,andG. Moerkotte. Evaluating queries withgeneralized pathexpressions,"V Christophides, S Cluet",Proceedings of ACM SIGMOD Conference on Management of,N/A
+q3Y-Mlx2sUsJ,Evaluating queries with generalized path expressions,"V Christophides, S Cluet, G Moerkotte","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",1996
+-LUnZ7Zwr1QJ,EvaluatingQuerieswithGeneralized Path Expressions,"V Christophides, S Cluet, G Moerkotte",Proc. of ACM SIGMOD Conf. on Management of,N/A
+DJv_OAw-BcIJ,"8z Simeon, J.(2000), On Wrapping Query Languages and Efficient XML Integration","V Christophides, S Cluet",Proc. 2000 ACM SICMOD International Conference on Management,N/A
+DqHBAYRAtyIJ,On wrapping query languages and efficient XML integration,"V Christophides, S Cluet, J SimÃ¨on","Proceedings of the 2000 ACM SIGMOD international conference  &hellip;,",2000
+g6fFCiX6GtMJ,"On Wrapping Query Languages and Efficient XML Integration , Rapport Verso numro 170, Octobre 1999.  ","V Christophides, S Cluet, J Simon","Cluet, S. Gamerman, OQL: le solide",N/A
+hEOX0Vu4-JcJ,J. Sim eon. On Wrapping Query Languages and Efficient XML Integration  full version . http: www-db.  ,"V Christophides, S Cluet",N/A,1999
+R7tBLAw0O3wJ,J. Sim eon. OnWrappingQueryLanguages andEcient XML Integration,"V Christophides, S Cluet","Proceedings of ACM SIGMOD Conf. on Management of Data,  &hellip;,",N/A
+Xssa5A6mJ1UJ,On Wrapping Language and efficient XML Integration,"V Christophides, S Cluet, J Simeon","ACM SIGMOD Conference on Management of Data,",N/A
+2y_G8dmz1QkJ,APEX: An Adaptive Path Index for XML data,"K Shim, C Chung, J Min",Proc. of ACM SIGMOD,N/A
+mEfTTKdu6soJ,APEX: An adaptive path index for xml data,"J Min, C Chung, K Shim","Proceedings of SIGMOD,",N/A
+n8tscFMeBtwJ,Apex: An adaptative path index for XML data,"C Chun, J Min, K Shim","Proceedings of ACM Conference on Management of Data (SIGMOD),",N/A
+UmPir9n5JloJ,APEX: an adaptive path index for XML data,"CW Chung, JK Min, K Shim",N/A,N/A
+vA_YTBbNegEJ,APEX: An adaptive path index for XML data,"CWCJ KM, K Shim","ACM SIGMOD,",N/A
+__YO1CE_aKcJ,Java and relational databases,"G Clossman, P Shaw, M Hapner, J Klein, R  ","Proceedings of 1998 ACM SIGMOD Conference on Management of  &hellip;,",N/A
+evYlYFg5r9UJ,SQLJ: Java and Relational Databases,G Clossman,N/A,1998
+Q0Jr0CGWn5MJ,Java and Relational Databases: SQLJ (Tutorial),"P Shaw, B Becker, J Klein, M Hapner, G Clossman, R ",N/A,1998
+qq2lTNrNTBUJ,JAVA and Relational Databases: SQLJ,"G Clossman, P Shaw","SIGMOD RECORD,",1998
+63Y-t4R2RycJ,Your Mediatms Need Data Conversion,"S Cluet, C Delobel, J SimÃ©on, K Smaga",Proc. of ACM SIGMOD Conference on Conference of Management ,N/A
+DBPQai0tf1QJ,Your mediators need data conversation,"S Cluet, C Delobel, J Simeon, K Smaga",Proceedings of ACM-SIGMOD International,N/A
+i2rbviV_9VgJ,Your Mediators Need Data Conversion!,"SCCDJ SimGon, K Smaga",N/A,N/A
+lOZF0Ee3rUQJ,Your Mediators Need Data Conversion!,"S Cluet, C Delobel",N/A,N/A
+q9yRMEgjLOAJ,Your Mediators Need Data Convention,"S Cluet, C Delobel, J Simeon, K Smaga","Proc. ACMSIGMOD International Conference on Management of  &hellip;,",N/A
+VZreOrzvcYEJ,Ã¢â?¬ Å?Your Mediators Need Data Conversion! Ã¢â?¬Â?,"S Cluet, C Delobel, J Simeon, K Smaga",Proc. of the ACM SIGMOD,N/A
+W5KcKrhKY_YJ,"eon, and K. Smaga. Your Mediators Need Data Conversion","S Cluet, C Delobel, J Sim","ACM SIGMOD Conf. on Management of Data,",N/A
+_ICk4vgjlgsJ,Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual  ,WW Cohen,"SIGMOD Conference,",1998
+PSQ-qYD4aiAJ,Integration of heterogeneous databases without common domains using queries based textual similarity ,W Cohen,"Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+1kGIXDE6G90J,Algorithms for Deffered View Maintenace,"L Colby, T Griffin, L Libkin, I Mumick, H Trickey","Proceedings of ACM SIGMOD International Conference on  &hellip;,",N/A
+MgphE2z3NqYJ,Algorithms for Deferred View Maintenance,"LS Colby, L Libkin, IS Mumick, H Trickey","SIGMOD Conference,",1996
+qZppq83SJEYJ,"n, L. Libkin, I. Mumick, H. Trickey, Algorithms for deferred view maintenance","L Colby, T Gri","Proceedings of the ACMSIGMOD Conference,",N/A
+tGBhWHHU7hsJ,AlgorithmsforDeferred View Maintenance,"LS Colby, T Griffin, L Libkin, IS Mumick, H  ",Proc. of the ACM SIGMOD,N/A
+0FohHTWs5toJ,Supporting multiple view maintenance policies,"LS Colby, A Kawaguchi, DF Lieuwen, IS Mumick, KA  ","Proceedings of the 1997 ACM SIGMOD international conference  &hellip;,",1997
+fDiU6std8e0J,Inderpa l Singh Mumick. Supporting multiple view maintenance policies,"LS Colby, A Kawaguchi, DF Lieuwen",Proceedings of the International Conference on Management of,N/A
+pJ6RYfffFg8J,"l Singh Mumick, I. 1997. Supporting multiple view maintenance policies","LS Colby, A Kawaguchi, DF Lieuwen",Proceedings of the International Conference on Management of,N/A
+_6wwPJEGUiAJ,Optimization of dynamic query evaluation plans,"G Graefe, R Cole","Proc. of ACM SIGMOD Conf. on Management of Data, Minneapolis &hellip;,",1994
+Lg8yEjB8jmAJ,Optimization of dynamic query execution plans,"R Cole, G Graefe",Proc. of the ACM SIGMOD Int.,N/A
+qpYRj0BgQz4J,"G. GRAEFE, Optimization of dynamic query evaluation plans",RL COLE,Proc. of the/994 ACM,N/A
+z_W8jZ203sUJ,Optimization of dynamic query evaluation plans,"RL Cole, G Graefe","Proceedings of the 1994 ACM SIGMOD international conference  &hellip;,",1994
+BYAEfUWtxgUJ,Partition Selection Policies in Object Oriented Database Garbage Collection,"JE Cook, AL Wolf, BG Zorn",N/A,1994
+LiIWlw3oNgUJ,Partition Selection Policies in Object Database Garbage Collection,"JE Cook, AL Wolf, BG Zorn","SIGMOD Conference,",1994
+89Avc7qz9YoJ,Gigascope: High Performance Network Monitoring with an SQL Interface,"C Cranor, Y Gao, T Johnson, V Shkapenyuk, O  ",Proc. of the 2002 ACM SIGMOD Intl. Conf. on Management of ,N/A
+Up9QQITiHzAJ,Gigascope: High performance network monitoring with an SQL interface. Demonstration,"C Cranor, Y Gao, T Johnson, V Shkapenyuk, O  ","Proc. ACM SIGMOD 2002,",N/A
+b0ayPKpqTwsJ,A stream database for network applications,"C Cranor, T Johnson, O Spataschek, VS Gigascope",Proceedings of the 2003 ACM SIGMOD International Conference ,N/A
+eXt7Nvd060MJ,"BGigascope: A stream database for network applications,^ in Proceedings of the ACM International  ","C Cranor, T Johnson, O Spataschek, V Shkapenyuk",N/A,2003
+gya0M9b1KrgJ,Gigascope: A stream database for network applications,"T Johnson, C Cranor, O Spatsheck, V Shkapenyuk","Proc 2003 ACM SIGMOD international conference on management  &hellip;,",N/A
+nHesT9ADTdEJ,Gigascope: A Stream Database for Network Applications,"CD Cranor, T Johnson, V Shkapenyuk","SIGMOD Conference,",2003
+uh2lQGa6hQUJ,Delaunay: a Database Visualization System,IFCM Averbuch,N/A,N/A
+url:http://www.csa.com/partners/viewrecord.php%3Frequester%3Dgs%26collection%3DTRD%26recid%3D0294187CI,Delaunay: A database visualization system,"WT Lucas, IF Cruz, M Radzyminski, M Averbuch, K  ","SIGMOD REC,",1997
+YWWvQnGCpDEJ,Delaunay: a Database Visualization System,"IF Cruz, M Averbuch, WT Lucas, M Radzyminski, K  ",N/A,N/A
+nTu7PUukM1wJ,An Online Video Placement Policy Based on Bandwidth to Space (BSR),"A Dan, D Sitaram",Proceedings of ACM,N/A
+qjHzY4uEG7gJ,An online video placement policy based on bandwidth to space ratio,"A Dan, D Sitaram","Proceedings of the ACM SIGMOD Conference,",N/A
+qYsoOX4e1noJ,An Online Video Placement Policy based on Bandwidth to Space Ratio (BSR),"A Dan, D Sitaram",N/A,N/A
+POt1WbTBB4cJ,"Mining database structure; or, how to build a data quality browser","T Dasu, T Johnson, S Muthukrishnan, V Shkapenyuk","SIGMOD Conference,",2002
+Qywc8AsElxEJ,Mining database structure; or howto build a data quality browser,"T Dasu, T Johnson, S Muthukrishnan, V Shkapenyuk",N/A,N/A
+zTF5z0v_nh0J,"Mining Database Structure; Or, How to Build a Data Quality Browser","T Johnson, S Muthukrishnan, P Dasu, V Shkapenyuk","Proc. of ACM SIGMOD, to appear,",N/A
+1ivmtE5W6FsJ,Dynamic content acceleration: A caching solution to enable scalable dynamic web page generation,"KDKRH Thomas, A Datta, D VanderMeer","Proceeding of the fifteenth ACM Symposium on Operating  &hellip;,",N/A
+qK-N8yVLSWUJ,Dynamic Content Acceleration: A Caching Solution to Enable Scalable Dynamic Web Page Generation,"A Datta, K Dutta, K Ramamritham, H Thomas, D  ","SIGMOD Conference,",2001
+0m_Q5tf3oDAJ,"Suresha, and K. Ramamritham. Proxy-based acceleration of dynamically generated content on the world  ","A Datta, K Dutta, H Thomas, D VanderMeer","Proceedings of SIGMOD-2002,",N/A
+5N2k30IYlWoJ,"Suresha, AND Ramamritham, K. 2002. Proxy-Based Accelaration of Dynamically Generated Content on the  ","A Datta, K Dutta, H Thomas, D Vander Meer",Proceedings of ACM SIGMOD,N/A
+orxvLy4vVEQJ,Proxy-Based Acceleration of Dynamically Generated Content on the World Wide Web: An Approach and  ,"A Datta, K Dutta, H Thomas, D Vandermeer, K  ","ACM TRANSACTIONS ON DATABASE SYSTEMS,",2004
+RKbKtLWjDLEJ,"Suresha, Krithi Ramamritham, Proxy-based acceleration of dynamically generated content on the world  ","A Datta, K Dutta, H Thomas, D VanderMeer","Proceedings of the 2002 ACM SIGMOD international conference  &hellip;,",N/A
+96SrVGnDmMoJ,Dynamic Resource Brokering for Multi-User Query Execution,"DL Davison, G Graefe","SIGMOD Conference,",1995
+Ed8EH4p2vBMJ,Dynamic resource allocation for multi-user query execution,DL Davison,N/A,1995
+3PH--zwkZO8J,"A Comprehensive XQuery to SQL Translation using Dynamic Interval Encoding, SIGMOD 2003",D DeHaanâ?¦,To,N/A
+CD_xefdItVkJ,A Comprehensive XQuery to SQL Translation Using Dynamic Interval Coding,"D DeHaan, D Toman, MP Consens, MT Ozsu",Proceedings of the ACM,N/A
+gyYBYgpB63sJ,A Comprehensive XQuery to SQL Translation using Dynamic Interval Encoding,"D DeHaan, D Toman, MP Consens","SIGMOD Conference,",2003
+uq-pFFsnBusJ,MT zsu. A Comprehensive XQuery to SQL Translation using Dynamic Interval Encoding,"D DeHaan, D Toman, MP Consens",Proc. ACM SIGMOD,N/A
+5OTQGZ1gb18J,Dissemination of dynamic data,"P Deolasee, A Katkar, A Panchbudhe, K Ramamritham, ",Proceedings of the ACM SIGMOD International Conference on ,N/A
+tEFUZn3tEMYJ,Dissemination of Dynamic Data on the Internet,"K Ramamritham, P Deolasee, A Katkar, A Panchbudhe, ",N/A,N/A
+0Ta25VSGl7kJ,RR Independence is good: Dependency-based histogram synopses for high-dimensional data,"A Deshpande, MN Garofalakis",Proc. 2001 ACM SIGMOD Intl. Conf. Managment of,N/A
+knAoAIpo7hYJ,Independence is Good: Dependency-Based Histogram Synopses for High-Dimensional Data,"A Deshpande, M Garofalakis, R Rastogi","SIGMOD Conference,",2001
+aBiqHXGXoJEJ,Cache-and-Query for Wide Area Sensor Network,"A Deshpande, S Nath, PB Gibbons, S Seshan","SIGMOD Conference,",N/A
+fU6zoUKeXe8J,Cache-and-Query for Wide Area Sensor Databases,"A Deshpande, SK Nath, PB Gibbons, S Seshan",N/A,N/A
+pF6EW_yKYyYJ,IrisNet: An Architecture for Internet-scale Sensing Services,"S Nath, A Deshpande, Y Ke, PB Gibbons, B Karp, S  ","PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE  &hellip;,",2003
+sfB17Fi4MZsJ,IrisNet: Internet-scale Resource-Intensive Sensor Services,"A Deshpande, SK Nath, PB Gibbons, S Seshan","SIGMOD Conference,",2003
+Thoke4oYLt4J,IRIS: Internet-scale Resource-Intensive Sensor Services,"A Deshpande, S Nath, PB Gibbons, S Seshan",N/A,N/A
+2lypQEgzfb8J,SuciuD (1999) Storingsemistructured data with STORED,FM DeutschA,"Proceedings of the ACM SIGMOD conference on management of  &hellip;,",N/A
+9WLtxnKtm_EJ,Storing Semistructured Datawith STORED,"A Deutsch, M Fernandez, D Suciu","&hellip;  of the ACM SIGMOD International Conference on Management of &hellip;,",N/A
+De_3PkxkhzIJ,Storing semistructured data with STORED,"AD DFS, M Fernandez, D Suciu","Proc. of ACM SIGMOD Conf. on Management of Data,  &hellip;,",N/A
+fuitKuyY3l8J,Storing semistructed data with STORED,"A Deutsch, M Fernandez, D Suciu","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+kDYpG4mLjLkJ,Storing semi-structured data using STORED,"A Deutsch, M Fernandez, D Suciu","Proc., ACM SIGMOD,",N/A
+QxtGOVsCF78J,Storing Semistructured Data with STORED,"A Deutsch, M Fernandez, D Suciu","SIGMOD Conference,",1999
+SR_yVgZnYpMJ,Storing semistructured data with stored,"A Deuntsch, M Fernandez, D Suciu",Proceedings of ACM,N/A
+SYaXErlVlcAJ,D. Suciu Storing semistructured data with stored,"A Deustsch, M Fernandez","SIGMOD Int&#39;s Conf. On Management of Data,",N/A
+twQNwr-jFmoJ,"andez, and D. Suciu. Storing semistructured data with STORED","A Deutsch, M Fern","&hellip;  of the ACM SIGMOD International Conference on Management of &hellip;,",N/A
+XrybyHOI16kJ,Storing Semi-structured Data with STORED,"DM Fernandez, D Suciu","&hellip; , Pennslyvania: Proceedings of the ACM SIGMOD Conference,",N/A
+Z9e9dqy5KBgJ,Storing semistructured data with STORED,ADMFD Suciu,"Proc of the ACM SIGMOD International Conference on  &hellip;,",1999
+-KuX7UT0JIIJ,Storing Semistructured Data with STORED,"A Deutsh, M Fernandezâ?¦","Proc of ACM SIGMOD Conf. On Management of Data,",N/A
+v7A9Otp7OjsJ,Processing complex aggregate queries over data streams,"A Dobra, MN Garofalakis, J Gehrke, R Rastogi","SIGMOD Conference,",2002
+wuIyUXOQP7AJ,Processing complex aggregate queries over data streams,"D ALIN, G MINOS, G JOHANNES, R Rajeev","Proc. of the 2002 ACM SIGMOD Intl. Conf. on Management of  &hellip;,",2002
+AgBMhm_0uEIJ,METU Object-Oriented DBMS,"A Dogac, C Ozkan, B Arpinar, T Okay, C Evrendilek",N/A,N/A
+fsa72WmA67kJ,METU Object-Oriented Database System,A Dogacâ?¦,"Demo Description, in the Proc. ACM SIGMOD Intl. Conf. on  &hellip;,",N/A
+gt_wY6mYF_kJ,"METU Object-Oriented Database System, Demo Description",A Dogac,"Proceedings of ACM SIGMOD Intl. Conf. on Management of Data, &hellip;,",N/A
+p6ro8VCQBwcJ,METU Object-Oriented DBMS Kernel,"A Dogac, A Altinel, C Ozkan","Proc. of Intl. Conf on Database and Expert Systems  &hellip;,",1995
+zf5eI7As5kAJ,METIJ Object-Oriented DBMS,"A Dogac, C Ozkan, B Arpinar, T Okay, C Evrendilek","&hellip;  tn Object-Oriented Database Systems, Dogac, A., Ozsu, T.,  &hellip;,",N/A
+_4ARkdpRArQJ,METU interoperable database system [J],A Dodacâ?¦,"Sigmod Record,",N/A
+GnjIUQVlZ0UJ,METU Interoperable Database System,AL Dogac Aet,Proceedings of the 1996 ACM SIGMOD Int. Conf. on Management ,N/A
+oAO74aolStoJ,MEFU interoperable database system,"DD Dengi, E Kilic","Sigmod Record,",N/A
+SYV3r4_a5EsJ,METU Interoperable Database System. Demo Description,"A Dogac, U Halici, E Kilic, G Ozhan, F Ozcan, S  ",Proceedings of the ACM SIGMOD International Conference on ,N/A
+UAO4T_2ylPkJ,METU Interoperable Database System,"A Dogac, E Kilic, G Ozhan, F Ozcan, S Nural, B  ","SIGMOD RECORD,",1995
+XE1zjDexb64J,METU Interoperable Database System,"CE Koksal, S Mancuhan","Demo Description, In Proc. of ACM",N/A
+juQlvnYuPxwJ,Y. Kabak (2002)â??An ebXML Infrastructure Implementation through UDDI Registries and RosettaNet PIPs ,"A Dogac, Y Tambag, P Pembecioglu, S Pektas, GB  ",Proceedings of the 2002 ACM SIGMOD International Conference ,N/A
+VAOk1X8Ja30J,Y. Kabak. An ebXML Infrastructure Implementation through UDDI Registries and RosettaNet PIPsâ??,"A Dogac, Y Tambag, P Pembecioglu, S Pektas, G  ",Proceedings of 2002 ACM SIGMOD International Conference on ,N/A
+wi8177RdPBYJ,An ebXML infrastructure implementation through UDDI registries and RosettaNet PIPs,"A Dogac, Y Tambag, P Pembecioglu, S Pektas, G  ","SIGMOD Conference,",2002
+LUfRqM48JaEJ,Database Performance in the Real World: TPC-D and SAP R/3,J Doppelhammer,"SIGMOD RECORD,",1997
+q_A8Y8KY9WkJ,Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper),"J Doppelhammer, T Hoeppler, A Kemper, D Kossmann","SIGMOD Conference,",N/A
+Q4N41koenF8J,The Need for Distributed Asynchronous Transactions,"L Do, P Ram, P Drew",N/A,N/A
+Rviij1nqEcoJ,The Need for Asynchronous Distributed Transactions,"L Do, P Ram, P Drew","Proceedings of ACM SIGMOD Conference, Philadelphia,",N/A
+6csUZFROjIEJ,The nimble integration system,"D Draper, AY Halevy, DS Weld","Proc. of SIGMOD,",N/A
+6MdiqTp20aoJ,The Nimble Integration Engine tm,"D Draper, AY Halevy, DS Weld",N/A,N/A
+sURGDemFSsUJ,The nimble integration engine,"D Draper, AY Halevy, DS Weld","Proceedings of the 2001 ACM SIGMOD international conference  &hellip;,",2001
+i1qU2OFSeloJ,Using the CALANDA Time Series Management System,"W Dreyer, AK Dittrich, D Schmidt",N/A,N/A
+Qf8OS1o2YM4J,"Kotz Dittrich A. et Schmidt D., Using the CALANDA time series management system",W Dreyer,"Proceedings of the 1995 ACM SIGMOD, San JosÃ©, California,  &hellip;,",N/A
+l7KC1qG6OGEJ,"Temporal Coalescing with Now, Granularity, and Incomplete Information",CE Dyreson,"SIGMOD Conference,",2003
+UIDFB3gRjlUJ,"Temporal Coalescing with Now, Incomplete Information, and Granularity",CE Dyreson,Proceedings of,N/A
+54w4cIKL11UJ,RECORD-BOUNDARY DISCOVERY IN WEB DOCUMENTS,Y Jiang,N/A,1998
+O_SMlr3bFBMJ,"Y, Jiang and YK Ng.â??Record-boundary discovery in web documents,â??",D Embley,"Proc. ACM SIGMOD Conf,",N/A
+x8uC_9_IzUEJ,Record-Boundary Discovery in Web Documents,"DW Embley, YS Jiang, YK Ng",N/A,N/A
+8lBDhvljrAEJ,Filtering Algorithms and Implementation for Very Fast Publish/Subscribe Systems,"F Fabret, HA Jacobsen, F Llirbat, J Pereira, KA  ","SIGMOD RECORD,",2001
+IHZ0cEpqnPkJ,"F., Pereira, J., Ross, KA, AND Shasha, D. 2001. Filtering algorithms and implementation for very  ","F Fabret, HA Jacobsen, I LL",Proceedings of the ACM SIGMOD,N/A
+NDTjtWuhzbQJ,Filtering Algorithms and Implementation for Very Fast Publish/Subscribe Systems,"J Pereira, F Fabret, HA Jacobsenâ?¦","Proceedings of the 4th ACM Special Interest Group on  &hellip;,",N/A
+uaOB9o42w5AJ,Filtering Algorithms and Implementation for Very Fast Publish/Subscribe Systems,D Shasha,N/A,N/A
+dOY1djmoy04J,E  cient similarity search and classi  cation via rank aggregation,"R Fagin, R Kumar, D Sivakumar","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+tQZWeE_nsa0J,Efficient similarity search and classification via rank aggregation,"R Fagin, R Kumar, D Sivakumar","SIGMOD Conference,",2003
+43b8e16YZlEJ,"und Lin, K.-I.(1995). FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of  ",C Faloutsos,Proceedings of the 1995 Int. ACM/SIGMOD Conf. on Management ,N/A
+56AknoQlFB0J,"FastlIap: A fast algorithrn for indexing, data-mining and visiializatiori of traditional and  ","C Faloutsos, KI Lin",Proceedings of the 1995 ACM SIGMOD International Conference ,N/A
+dRjSn10qk9wJ,"D.(1995). Fastmap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and  ","C Faloutsos, KI Lin",Proceedings of,N/A
+dyDxQvd8OHoJ,"FastMap: afastalgorithmforindexing, data mining, and visualization of traditional and multimedia  ","C Faloutsos, KI Lin","SIGMOD RECORD, Proc.â??95ACM SIGMOD Int. Conf. on Management &hellip;,",N/A
+GGmfi7ywI4gJ,"FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia  ","C Faloutsos, KI Lin","MD,",N/A
+I0Kn3dzF4TgJ,"Fastlk? ap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and  ",C Faloutsos,N/A,N/A
+j0EcM-BvshwJ,FastMap: A Fast Algorithm for Indexing,"C Faloutsos, KI Lin","Data-Mining and Visualization of Traditional and Multimedia  &hellip;,",N/A
+lJvmD13lHJIJ,"Fastmap: A fast algorithm for indexing, data mining and visualization of traditional and multimedia","C Faloutsos, K Lin","Proc. of SIGMOD,",N/A
+RLjlTtFM36IJ,"K.-I.(David) Lin, Fastmap: A fast alogorithm for indexing, data-mining and visualization of  ",C Faloutsos,"Proc. of SIGMOD,",N/A
+roK09GarWdcJ,"ID Lin,&quot; FastMap: AFast Algorithm for Indexing, Data-Mining and Visualization of Traditional  ",C Faloutsos andK,"Conference on Data Management (SIGMOD), San Jose, CA,",N/A
+Tpb-LwPZJNMJ,"  a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets ","C Faloutsos, KI Lin",N/A,1994
+vbvO-dB6wiIJ,"  a Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets ","C Faloutsos, K Lin",Management of,N/A
+yFaUjmOQp1wJ,"Fastmap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia  ","K Lin, C Faloutsos","Proceedings of ACM SIGMOD,",1995
+4bG39HmGrAQJ,Fast Subsequence Matching in Time-series Datebase. SIGMOD,"C Faloutsos, M Ranganthan, Y Manolopoulos","Proc. of Annual Conference, Minneapolis,",N/A
+5fCkUaG8A-gJ,Fast subsequence matching in time-series,"C Faloutsos, M Fanganathan, Y Monolopoulos","Proceedings 1994 ACM SIGMOD Conference,",N/A
+6WIF-_hBZZgJ,Y. Manolopou-10s:â??Fast Subsequence Matching in Time-Series Databasesâ??,"C Faloutsos, M Ranganathan",Proceedings of the 1994 ACM SIGMOD,N/A
+AHu54TOP-eoJ,Fast subsequence matching in time-series databases,"C Faloutsos, M Ranganathan, Y Manolopoulos",Proceedings of the 1994 ACM SIGMOD international conference ,N/A
+bL4szse-iCQJ,"Y., M. 1994. Fast subsequence matching in time-series databases","C Faloutsos, M Ranganathan",Proc. Int. Conf. On Management of,N/A
+NqewK_dmRawJ,Fast subsequence matchingin time-seriesdatabases,"C Faloutsos, M Ranganathan, Y Manolopoulos","Proc. ACM SIGMOD,",N/A
+qaoTK_zX3awJ,ManolopoulosY (1994) Fast subsequence matching in time-series databases,"C Faloutsos, M Ranganathan",&hellip; . ACM International Conference on Management of Data (SIGMOD,N/A
+R4fVVmv_YvoJ,Fast Subsequence Matching in Time-Series Database,"CFM Ranganathan, Y Manolopoulos","Proc. ACM SIGMOD Intâ??l Conf Management of Data,  &hellip;,",N/A
+s-BT0x6h2qUJ,"Ranganathan., M. and Manolopoulos, Y.(1994) Fast subsequence matching in time-series databases",C Faloutsos,Proc. ACM SIGMOD Conf. on Management of,N/A
+qsWDIfzBxiQJ,Spatial Join Selectivity Using Power Laws,"C Faloutsos, B Seeger, A Traina","SIGMOD RECORD,",2000
+Sqy1tqGEnxsJ,"Spatial Join Selectivity Using Power Laws, ACM SIGMOD Intl","C Faloutsos, B Seeger, A Traina, C Traina","Conference on Management of Data,",N/A
+XMC0W6CQJJIJ,BSpatial join selectivity using power laws,"C Faloutsos, B Seeger, A Traina, C Traina",Proc. of ACM-SIGMOD Conference on the Management of,N/A
+LSWVPfB8TC4J,Towards an Effective Calculus for Object Query Languages,"L Fegaras, D Maier","SIGMOD Conference,",1995
+MHubEDlndWYJ,Towards an eectivecalculusfor objectquery languages,"L Fegaras, D Maier","Proc. of the ACM SIGMOD Int. Conference on Management of  &hellip;,",N/A
+ykGQlI-IaJkJ,Toward an Effective Calculus for Object Query Processing,"L Fegaras, D Maier","Proc. ACM SIGMOD Conf. on Management of Data,",N/A
+ZquXPssSY_EJ,Toward an effective calculus for object query processing,"LF FM, D Maier",Proc. ACM SIGMOD Conf. on Management of,N/A
+4_4Jg_EQ8EkJ,&amp;lgr;-DB: an ODMG-based object-oriented DBMS,"L Fegaras, C Srinivasan, A Rajendran, D Maier",Proceedings of the 2000 ACM SIGMOD international conference ,N/A
+p1LusPTTxlAJ,Lambda-DB: An ODMG-Based Object-Oriented DBMS,"L Fegaras, C Srinivasan, A Rajendran, D Maier",N/A,N/A
+4BpkEHas0LcJ,STRUDEL-a web-site management system,"A Levy, D Florescu, D Suciu, J Kang, M Fernandez","Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+ek26aiEheesJ,STRUDEL: A Web-site Management System,"M Fernandez, J Kang, A Levy, D Suciu",N/A,N/A
+zjrD8FvY6TgJ,STRUDEL: A Web-site Management System.,"ACMS Anthology, P Edition",N/A,N/A
+4xxRU4CpidMJ,A. Levy D. Suciu. Catching the boat with Strudel: experiences with a web-site management system ( ,MFDFJ Kang,"Proc of ACM-SIGMOD International Conference on Management of &hellip;,",N/A
+fNDX0gaFmB0J,Catching the Boat with Strudel: Experiences with a Web-Site Management System,", D Florescu, J Kang","SIGMOD Conference,",1998
+i5coyXNfHCkJ,Ã¢â?¬ Å?Catching the Boat with Strudel: Experiences with a Web-Site Management SystemÃ¢â?¬Â?,"MF Fernandez, D Florescu, J Kang, AY Levy, D Suciu",Proc. of the ACM SIGMOD,N/A
+N9NHi5y3K38J,Catching the boat with Strudel: Experience with a Web-site management system,"D Florescu, M Fernandez, J Kang, A Levy, D Suciu",Proceedings of ACM SIGMOD Conference on Management of,N/A
+rgk1HYJbTNEJ,Catching the boat with Strudel,"M Fernandez, D Florescu, J Kang, A Levy, D Suciu",Proceedings of ACM-SIGMOD International,N/A
+RKh78Q-rJLMJ,Catching the boat with Strudel: Experiences with a web-site management system. ACM Intl,"MF Fernandez, D Florescu, J Kang, AY Levy, D Suciu","Conference on Management of Data (SIGMOD),",N/A
+vVYs-3fNuZAJ,andD. Suciu. Catching the boat with Strudel: Experiences with a web-site management system,"M Fernandez, D Florescu, J King, A Levy",Proc. ACM,N/A
+W3H34LBUMtoJ,Catc hingthe boat with strudel: Experiences with aw eb-sitemanagement system,"M Fernandez, D Florescu, J Kang, A Levy",Proceedings of,N/A
+x-Xcm921UTMJ,Catching the boat with Strudel: experiences with a web-site management system,"A Levy, D Florescu, D Suciu, J Kang, M Fernandez","In SIGMODâ??98,",N/A
+66uAX5EPtKcJ,The Ins and Outs (and Everthing in Between) of Data Warehousing,"PM Fernandez, DA Schneider","SIGMOD Conference,",1996
+9bgA6C_HqvQJ,The Ins and Outs (and everything in between) of Data Warehousing,"D Schneider, P Fernandez","SIGMOD RECORD,",1996
+iLwFjrX22vYJ,"q'he Ins and Outs (and Everything in Between) of Data Warehousing,&quot;","J Byard, D Schneider","Tutorial in ACM SIGMOD,",N/A
+lMKrltuk53EJ,The Ins and Outs of Data Warehousing,D Schneider,Tutorial on the VLDB,N/A
+h0uuqAstOPUJ,Query Optimization in the Presence of Limited Access Patterns,"D Florescu, A Levy","SIGMOD Conference,",1999
+mH0XY3h8UlcJ,Query Optimization in the Presence of Limited Access Patterns,"A Levy, I Manolesu, D Suciu, D Florescu","Proc. of ACM SIGMOD Conf. on Management of Data,",N/A
+4k4fUbwNV8UJ,A data model and data structures for moving objects,"L Forlizzi, RH Guting, E Nardelli, M Scheider","Proc. of ACM SIGMOD,",N/A
+AHozbGex7VUJ,"E., AND SCHNEIDER, M. 1999. A data model and data structures for moving objects databases","L FORLIZZI, G WING, N RH",Proceedings of the ACM SIGMOD Conference on Management of ,N/A
+jW1JUC-AQXoJ,A Data Model and Data Structures for Moving Objects Databases,"L Forlizzi, RH Guting, E Nardelli, M Schneider","SIGMOD RECORD,",2000
+llVBkO6kYZoJ,A data model and data structures for moving objects databases,"E Nardelli, M Schneider, L Forlizzi, RH GÃ¼ting","ACM SIGMOD,",N/A
+vtX2CRPJunMJ,A data model and data structures for moving objects databases,"L Florizzi, RH Gutting, E Nardelli, M Schneider","ACM SIGMOD,",N/A
+0e3bs1VFPvAJ,Performance tradeoffsforclient-serverqueryprocessing,"MJ Franklin, DK BjornThorJonsson",Proceedings of the ACM SIGMOD International Conference on ,N/A
+2KXhx32GEzIJ,"onsson, and Donald Kossmann. Performance tradeoffs for client-serverquery processing","MJ Franklin, TJ Bjorn","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+40cq9ovvXn8J,andD. Kossmann. Performance Tradeoffs for Client-Server QueryProcessing. InProc,"MJ Franklin, BT Jonsson",ACM SIGMOD,N/A
+7POVNz32rC4J,"BJ and Kossman, D. 1996. Performance tradeoffs for client-server query processing",MJ Franklin,"Proceedings of the ACM-SIGMOD, International Conference on ",N/A
+98k6qrbdmsYJ,Performance Tradeoffs for Client-Server Query Execution,"M Franklin, B Jonsson, D Kossmann",ACM SIGMOD International Conference on the Management of ,N/A
+iDBvvrHwj7YJ,"B. J onsson, and D. Kossmann. Performance tradeoffs for client-server query processing",M Franklin,Proc. of the ACM SIGMOD Conf. on Management of,N/A
+yY5hMqazRHoJ,Performance tradeoffs for client-server query processing,"MJ Franklin, BT Jonsson, D Kossmann",N/A,1996
+5Cj9Wx8llkwJ,Data in your face: push technology in perspective,"M Franklin, S Zdonik",N/A,N/A
+K_qOxjIJWpQJ,Data in Your Face&quot;: Push Technology in Perspective (Invited Paper) ACM SIGMOD Intl,"M Franklin, S Zdonik","Conference on Management of Data, Seattle, WA, June,",N/A
+2bao_dZfCuQJ,The SPIFFI scalable video-ondemand system,"S Freedman Craig, DJ DeWitt","Proceedings of the 1995 ACM SIGMOD International Conference  &hellip;,",N/A
+dt4Mxy8b2hwJ,The SPIFFI scalable video-on-demand system,"CS Freedman, DJ DeWitt","Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+eEvZek727-8J,Ageneral solution ofthe n-dimensional B-tree problem,M Freeston,"Proc. ACM SIGMOD Int. Conf. on Management of Data,",N/A
+Fr8CPbK-IFIJ,A General Solution of the n-dimensional B-tree Problem,M Freeston,"SIGMOD Conference,",1995
+1p-q7eofLWIJ,StatiX: making XML count,"J Freire, JR Haritsa, M Ramanath, P Roy, J Simeon",N/A,N/A
+Pg-vbrBME1cJ,J. Sim eon.â??StatiX: Making XML Countâ??,"J Freire, JR Haritsa, M Ramanath, P Roy","Proc. of the 2002 ACM SIGMOD Intl. Conf. on Management of  &hellip;,",N/A
+YKkMxZntSUQJ,J er ome Sim eon.â?? StatiX: Making XML Countâ??,"J Freire, JR Haritsa, M Ramanath, P Roy","Proceedings of the 2002 ACM SIGMOD Intl. Conf. on Management &hellip;,",N/A
+z8IglVK-XnEJ,"Sim eon, J.:â?? StatiX: Making XML Countâ??","J Freire, JR Haritsa, M Ramanath, P Roy",Proceedings of the 2002 ACM SIGMOD Intl. Conf. on Management,N/A
+-JLg0gOjjb0J,eon.â?? StatiX: Making XML Countâ??,"J Freire, JR Haritsa, M Ramanath, P Roy, J Sim","Proc. SIGMOD,",N/A
+Bcuo4_yr2p0J,"Data mining using two-dimensional optimized association rules: scheme, algorithms, and visualization","T Fukuda, Y Morimoto, S Morishita, T Tokuyama","Proceedings of the 1996 ACM SIGMOD international conference  &hellip;,",1996
+lmXiI4fB9vgJ,"Data mining using two-dimensional optimized association rules: Scheme, algorithms, and visualization ","T Fukuda, Y Morimoto, S Morishita, T Tokuyama",N/A,1996
+sOBRaiLLvZgJ,Data Mining Using Two-Dimensional Optimized Association Rules: Scheme,"T Fukuda, Y Morimoto, S Morishita, T Tokuyama","Algorithms, and Visualization, ACM,",N/A
+fSKep047pbgJ,SONAR: System for Optimized Numeric AssociationRules.,"ACMS Anthology, P Edition",N/A,N/A
+WOCgxlV_LgoJ,SONAR: system for optimized numeric association rules,"T Fukuda, Y Morimoto, S Morishita, T Tokuyama","Proceedings of the 1996 ACM SIGMOD international conference  &hellip;,",1996
+Y8UdbAPhYpUJ,System for Optimized Numeric Association Rules,"T Fukuda, Y Morimoto, S Morishita, T Tokuyama","Proceedings of the 1996 ACM SIGMOD International Conference  &hellip;,",N/A
+i6QOOOYvOqQJ,"Data Management in eCommerce: The Good, the Bad, and the Ugly",A Gal,N/A,N/A
+SudUID_rEy0J,"Data management in eCommerce (tutorial session): the good, the bad, and the ugly",A Gal,"ACM SIGMOD Record,",2000
+GxDfgCi-rq4J,AJAX: An Extensible Data Cleaning Tool,"H Galhardas, D Florescu, D Shasha, E Simon",N/A,N/A
+QhUFQCApL8wJ,"Simon, E.:â??AJAX: An Extensible Data Cleaning Toolâ??","H Galardas, D Florescu, D Shasha","&hellip;  2000 ACM Int. Conf. on Management of Data (SIGMOD&#39;00), USA,",N/A
+05ZgvGyhSC0J,Bifocal Sampling for Skew-Resistant Join Size Estimation,"S Ganguly, PB Gibbons, Y Matias, A Silberschatz","SIGMOD Conference,",1996
+zeikJQZ2KM4J,"Matias, and A. Silberschatz. Bifocal Sampling for Skew-Resistant Join Size Estimation","SG GGMS, PB Gibbons",Proceedings of the ACM SIGMOD International Conference on ,N/A
+9-bSCnqVrlkJ,OFL: A Functional Execution Model for Object-Oriented Languages,"F Machuca, G Gardarin, P Pucheral","Intl. Conf. on Management of Data, ACM",N/A
+IOqPoq2MSvQJ,andP. Pucheral. OFL: Afunctionalexecution model for object query languages,"G Gardarin, F Machuca","Proc. ACM SIGMOD Intâ??l Conferenceon Managementof Data,  &hellip;,",N/A
+l-9pykkOVrkJ,OFL: A Functional Execution Modell for Object Query Languages,"G GardarinT, F Machuca, P Pucheral",N/A,N/A
+VOxehNSHEWQJ,O: A functional execution model for object query languages,"G Gardarin, F Machuca, P Pucheral",Proceedings of the 1995 ACM SIGMOD International Conference ,N/A
+6EaC2CmjsmAJ,Wavelet synopses with error guarantees,"MN Garofalakis, PB Gibbons",N/A,N/A
+r4a_VlMfu38J,Wavelet synopses with error guarantees,"G Minos, BG Phillip","Proceedings of ACM SIGMODâ??2002,",N/A
+Hz7TBeGZRz8J,andR. Rastogi. Querying and mining data streams: You only get one look,"M Garofalakis, J Gehrke","Proceedingsof ACM SIGMOD,",N/A
+ImADir74KWIJ,"Query and mining data streams: You only get one look, in â??VLDBâ??02","M Garofalakis, J Gehrke, R Rastogi","Proceedings of the 25th International Conference on Very  &hellip;,",N/A
+S6PWjHRFORYJ,Querying and mining data streams: you only get one look a tutorial,"MN Garofalakis, J Gehrke, R Rastogi","SIGMOD Conference,",2002
+YkSTcehl8o4J,Query and mining data streams: You only get one look,"M Garofalakis, J Gehrke, R Rastogi",N/A,N/A
+5uvR4kU1UOoJ,XTRACT: A System for Extracting Document Type Descriptors from XML Documents,"M Garofalakis, A Gionis, R Rastogi, S Seshadri, K  ","SIGMOD Conference,",2000
+Kw_1o5V8Ot4J,XTRACT: A system for extracting document type descriptors from XML documents,"A Gionis, M Garofalakis, R Rastogi, S Seshadri, K  ","Proc. of ACMSIGMOD 2000 International Conference on  &hellip;,",N/A
+6lvBOS-XO3EJ,"Multi-dimensional resource scheduling for parallel queries In SIG MOD conference ACM, May 1996","M Garofalakis, Y Ioannidis",To,N/A
+MfPbk62EdyQJ,Multi-dimensional Resource Scheduling for Parallel Queries,"MN Garofalakis, YE Ioannidis","SIGMOD Conference,",1996
+SqECOHtHVaAJ,Multi-Resource Parallel Query Scheduling and Optimization,"MN Garofalakis, YE Ioannidis",N/A,N/A
+jC39CJrWKr8J,The SAMOS Active DBMS Prototype,S Gatziu,N/A,N/A
+NU4yPbIkZpsJ,The SAMOS Active DBMS Prototype (Demonstration),"S Gatziu, A Geppert, KR Dittrich",Proc. ACM SIGMOD Intâ??l Conf. on Management of,N/A
+RvtHXIfsMasJ,The SAMOS Active DBMS Prototype.,"ACMS Anthology, P Edition",N/A,N/A
+9mbr0dyW1NgJ,A Toolkit for Negotiation Support Interfaces to Multi-Dimensional Data,"M Gebhardt, M Jarke","SIGMOD Conference,",1997
+ks4Wxa8dHNIJ,A toolkit for negotiation support on multidimensional data,"M Gebhardt, M Jarke, S Jacobs","Proceedings of ACM SIGMOD International Conference on  &hellip;,",N/A
+zbxsamf4QY8J,CoDecideâ?? a toolkit for negotiation support interfaces to multi-dimensional data,"M Gebhardt, M Jarke, S Jacobs",Proc. ACM-SIGMOD Conf. Management of,N/A
+f6JFkfhawW8J,On Computing Correlated Aggregates Over Continual Data Streams,"J Gehrke, F Korn, D Srivastava","SIGMOD Conference,",2001
+KIp3KSU4whsJ,On Computing Correlated Aggregates over Continual Data Streams Databases,"J Gehrke, F Korn, D Srivastava",Proc. of the 2001 ACM SIGMOD Intl. Conf. on Management of ,N/A
+tOTe7iddlmMJ,On computing correlated aggregates over continuous data streams,"J Gehrke, F Korn, D Srivastava",N/A,N/A
+2Nl65Vp7bxUJ,Infomaster: An Information Integration System,"MR Genesereth, AM Keller, OM Duschka",N/A,N/A
+V1GBio3oeqMJ,"Infomaster: An Information Integration System&quot;, in proceedings of 1997 ACM SIGMOD Conference","MR Genesereth, AM Keller, O Duschka",N/A,1997
+vRxd72o2PdoJ,0. Duschka. Infomaster: An Information Integration System,"M Genesereth, A Keller","Proc. SIGMOD Conference,",N/A
+Ah9B3bWU0jEJ,Secure Transaction Processing in Firm Real-Time Database Systems,"B George, J Haritsa","SIGMOD Conference,",1997
+B7Mw8CQYZTEJ,Secure Processing in Real-Time Database Systems,"B George, J Haritsa","Proc. of ACM SIGMOD Conf,",N/A
+b9F3YB4bHxQJ,Secure Transaction Processing in Real-Time Database Systems,"B George, J Haritsa","Proc. of ACM SIGMOD Conf, May,",N/A
+Cha3zvFBfDsJ,Informix Online XPS,B Gerber,N/A,N/A
+wlxZ0FqTy_MJ,Informix On Line XPS,B Gerber,Proceedings of the 1995 ACM SIGMOD International Conference ,N/A
+99N4rXNdaqMJ,Selectivity Estimation using Probabilistic Models,"L Getoor, B Taskar, D Koller",N/A,N/A
+bvdJYU3xG_YJ,Using probabilistic models for selectivity estimation,"L Getoor, B Taskar, D Koller",Proceedings of ACM SIGMOD International Conference on ,N/A
+4EgMtIywBRUJ,New Sampling-Based Summary Statistics for Improving Approximate Query Answers,"PB Gibbons, Y Matias","SIGMOD Conference,",1998
+7jANIPngJrIJ,MatiasY. New Sampling-Based Summary Statistics for Improving Approximate Query Answers,PB Gibbons,Proc. 1998 ACM SIGMOD International Conference on Management,N/A
+GEBNdHM0xSgJ,New sampling-based summary statistics for improving approximate query answers. pages 331--342,"PB Gibbons, Y Matias",N/A,1998
+HrdG_-EcnP8J,New sampling-based summary statistics for improving approximate query answers. ACM SIGMOD Int,M Gibbons,Conference on Management of Data,N/A
+x4HkJDEYFmYJ,New Sampling-based Summary Statistics for Improving Approximate Query Processing,"PB Gibbons, Y Matias","Proceeding of ACM SIGMOD Conference, Seattle, WA, USA, June,",N/A
+28mTFsC-KCIJ,Dennis Tsichritzis Data Modeling of Timeâ??Based Media to appear in sigmod 94,"S Gibbs, C Breiteneder",available via ftp from cui. unige.,N/A
+6oKFObEbS5oJ,"Data Modeling of Time-Based Media, in sigmod 94","S Gibbs, C Breiteneder, D Tsichritzis",available via ftp from cui. unige.,N/A
+6xazkGA_aewJ,Modeling time-based media,"S Gibbs, C Breiteneder, D Tsichritzis","The handbook of multimedia information management table of  &hellip;,",1997
+cRvuoTzIXRYJ,andD. Tscichritzis. Datamodeling of time-based media,"S Gibbs, C Breiteneder",Proc. of ACM,N/A
+iS9rQqelSjMJ,Data Modeling of Time-Based Media,"S Gibbs, C Breiteneder, D Tsichritzis","SIGMOD Conference,",1994
+sZifEczLuOUJ,"Data modeling of Time-Based MediaÂ», the proceedings of the ACM-SIGMOD 1994","S Gibbs, C Breiteneder, DC Tsichritzis",Conference on Management,N/A
+vfTH6FzOpDAJ,Data modeling of time-based media. In: Proceedings of the 1994 ACM SIGMOD International Conference  ,"S Gibbs, C Breiteneder, D Tsichritzis",N/A,1994
+3bYCefUMXr8J,A Goal-driven Auto-Configuration Tool for the Distributed Workflow Management System Mentor-lite ( ,"M Gillmann, J Weissenfels, G Shegalov, W Wonner, G ","ACM SIGMOD Conf. on Modeling of Data (SIGMOD), Dallas, Texas,",N/A
+L61_1TEGBLYJ,A Goal-driven Auto-Configuration Tool for the Distributed Workflow Management System Mentor-lite,"M Gillmann, J Weissenfels, G Shegalov, W Wonner, G ","SIGMOD Conference,",2000
+idT5wOZXM-wJ,Workflow management with service quality guarantees,M Gillmann,N/A,N/A
+Pbjz4-UPrZ8J,Workflow management with service quality guarantees (sigmod02),"M Gillmann, G Weikum, W Wonner",SIGMOD,N/A
+D0EVu0EZM-UJ,Languages for Multi-database Interoperability.,"ACMS Anthology, P Edition",N/A,N/A
+hlbdfqaXdkAJ,Languages for multi-database interoperability,"F Gingras, LVS Lakshmanan, IN Subramanian, D  ","Proceedings of the 1997 ACM SIGMOD international conference  &hellip;,",1997
+k6JBnh7YxPYJ,Languages for Multi-database Interoperability,"G Frederic, VS Lakshmanan Laks, N Subramaman Iyer, ","PTOC. of the ACM SIGMOD, Tucson, Arizona, May,",N/A
+f5cqkpUXl0kJ,Secure and Portable Database Extensibility,"M Godfrey, T Mayr, P Seshadri, T Von Eicken","SIGMOD RECORD,",1998
+-H3tXntLhowJ,Secure andPortableDatabaseExtensibility,"M Godfrey, T Mayr, P Seshadri, T von Eicken",Proc. ACM SIGMOD,N/A
+_Vn4nSui5UMJ,Query Optimization: Reordering for a general Class of Queries,"P Goel, B Iyer",ACM SIGMOD Intl. Conf. on Management of Data ,N/A
+hD6w1eBfjWcJ,SQL Query Optimization: Reordering for a General Class of Queries,"P Goel, B Iyer","SIGMOD Conference,",1996
+uJj9OgotYeEJ,Things Every Update Replication Customer Should Know,R Goldring,"SIGMOD RECORD,",1995
+url:http://portal.acm.org/citation.cfm%3Fid%3D223784.223865%26dl%3Dportal%26dl%3DACM%26type%3Dseries%26idx%3D223784%26part%3DProceedings%26WantType%3DProceedings%26title%3DInternational%2520Conference%2520on%2520Management%2520of%2520Data%2520and%2520Symposium%2520on%2520Principles%2520of%2520Database%2520Systems%26CFID%3D11111111%26CFTOKEN%3D2222222,Things every update replication customer should know (abstract),R Goldring,"Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+dxvwQEOjBJQJ,Optimizing queries using materialized views,"J Goldstein, PA Larson",N/A,2001
+xufwWHmOf6IJ,"Optimizing Queries Using Materialized Views: A Practical, Scalable Solution","J Goldstein, PA Larson","SIGMOD Conference,",2001
+1QvhrpZ7KBgJ,Sybase Replication Server,"A Gorelik, Y Wang, M Deppe",N/A,N/A
+h10FxbLW6zAJ,Sybase Replication Server,"AGY Wang, M Deppe",N/A,N/A
+X2URoOMjJv4J,The Sybase Replication Server Project,"Y Wang, J Chiao, V Nori","LECTURE NOTES IN COMPUTER SCIENCE,",1993
+D-1jnVnmWnQJ,Picture Programming Project.,"ACMS Anthology, P Edition",N/A,N/A
+OcGPxRYxbsUJ,Picture Programming Project,"N Goyal, C Hoch, R Krishnamurthy, B Meckler, M  ",N/A,N/A
+1xxRTUP64bwJ,a-Molina und A. Paepcke: STARTS: Stanford Proposal for Internet Meta-Searching,"L Gravano, CCK Chang, H Garc","Proc. of the 1997 ACM SIGMOD Int. Conference on Management  &hellip;,",N/A
+8jTTpoQc2RkJ,Starts: Stanford proposal for internet meta-searching,"HGMAP Luis, CCKC Gravano","Technical report, Stanford University,",N/A
+FHEK09LJKfwJ,Stanford Proposal for Internet Meta-Searching,"L Gravano, KCC Chang, H Garcia-Molina, A Paepcke","Proceedings of the 1997 ACM SIGMOD Conference,",N/A
+hs8rOlHD4K4J,STARTS: Stanford Proposal for Internet Meta-Searching,"L Gravano, CCK Chang, A Paepcke","SIGMOD REC,",1997
+IVXOHTW5Lt0J,"K., Garcia-Molina, H., and Paepcke, A.(1997). STARTS: Stanford proposal for internet metasearching","L Gravano, CC Chang",ACM SIGMOD Int. Conf. on Management of,N/A
+PsoYENGEh9cJ,STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper),"L Gravano, KCC Chang, H Garcia-Molina, A Paepcke","SIGMOD Conference,",N/A
+sBVErKh0FqMJ,STARTS: Stanford Proposal for Internet Meta-Searching,"CCK Chang, L Gravano, H Garcia-Molina, A Paepcke","Proc. of the 1997 ACM Intl. SIGMOD Conference,",N/A
+yfb8p_tlSlsJ,"Change, K., Garcia-Molina, H., Paepcke, A.: STARTS Stanford Proposal for Internet Meta-Searching",L Fravano,Proceedings of the ACM-SIGMOD International Conference on ,N/A
+81oh7EDAYeoJ,The effectiveness of GlOSS for the text database recovery problem,"L Gravano, H Garcia-Molina, A Tomasic","Proc. of the ACM SIGMOD Conference, Minneapolis, Minnesota,",N/A
+H6fWl-cSuY4J,The Effectiveness of GlOSS for the Text Database Discovery Problem,"L Gravano, H Garcia-Molina, A Tomasic","SIGMOD Conference,",1994
+iwS7dFGYcyEJ,The Effective of GLOSS for The Text Database Discovery Problem,"HGOMS LuisGravano, A Tomasic","Proc. of The ACM SIGMOD Conference, ACM Sigmod Record,",N/A
+mO77XJl45iEJ,"Garc Ä± A-Molina, H., AND Tomasic, A. 1994. The effectiveness of GlOSS for the text database  ",L Gravano,Proceedings of the 1994 ACM SIGMOD International Conference ,N/A
+nAJnhh70_0kJ,The efficiency of gloss for the text database discovery problem,"L Gravano, H Garcia-Molina, A Tomasic",N/A,1993
+OYFpMlm5yCQJ,"H. Garc a-Molina, and A. Tomasic. The eectivenessof GlOSS for thetext-databasediscoveryproblem",L Gravano,"Proceedings of the 1994 ACM SIGMOD Conference, May,",N/A
+sk7DIwcSZrwJ,The Efficacy of GlOSS for the Text Database Discovery Problem,"L Gravano, A Tomasic",N/A,N/A
+VxiP2MuiMM0J,The E ectiveness of GlOSS for Text Database Discovery Problem,"L Gravano, H Garcia-Molina, A Tomasic",Proceedings of the ACM,N/A
+We2mw93oKL4J,The Effectiveness of Gloss for the Text Database Discovery Problems,"LGH Garcia-Molina, A Tomasic","i&gt; Proc. SIGMod Conf.,&lt;/i&gt; ACM Press, New York,",N/A
+z26H2tQo7bkJ,The effectiveness of gloss for the text database discovery problem. 1994,"L Gravano, HG Molina, A Tomasic","Proceedings of the 1994 ACM SIGMOD International Conference  &hellip;,",N/A
+_EUlTfqD0q0J,"POâ??Neil, and D. Shasha. The Dangers of Replication and a Solution","J Gray, P Helland","ACM SIGMOD Conf. on Management of Data, Canada,",N/A
+_pjwP11t_y8J,aDSP Oâ??Neil. The dangers of replication and a solution,"JN Gray, P Helland",Proceedings of the 1996 ACM SIGMOD International Conference ,N/A
+3mFpWorR_ucJ,"p. O'Neil, and D. Shasha,â??The Dangers of Replications and a Solution,â??","J Gray, P Helland","Proceedings of the 1996 ACM SIGMOD international conference  &hellip;,",N/A
+5cw83MyqYrMJ,The Dangers of Replication and a Solution,"D Shasha, PO'Neil, J Gray, P Helland",N/A,N/A
+92XgZkibRYwJ,D angers of replication and a solution,"J Gray, P Helland, POâ??Neil, D Shasha","Int. Conf. on Management of Data (SIGMOD),",N/A
+cS8_6Qp-JYUJ,and D. Shasha P. Oâ??Neil. The dangers of replication and a solution,"JN Gray, P Helland",Proceedings of the 1996 ACM SIGMOD International Conference ,N/A
+dRwl6kpDBjEJ,The Dangers of Replication and a Solution,"J Gray, P Helland","SIGMOD Conference,",1996
+GFJeoxHwEnkJ,The Dangers of Replication,"J Gray, P Helland, POâ??Neil, D Shasha","Proceedings of the 1996 ACM SIGMOD International Conference  &hellip;,",N/A
+iKmQWoUYl-0J,The dangers of replication and a solution,"JG SI, P Helland, P ONeil, D Shasha","Proceedings 1996 SIGMOD Conference,",N/A
+imwZsCcZvFQJ,"The Danger of Replication and a Solution, ACM SIGMOD Int","J Gray, P Helland, POâ??Neil, D Shasha","Conf on Management of Data, Montreal, June,",N/A
+J_QkWJ4HlOUJ,"OÃ¢â?¬â?¢ Neil PE, Shasha D. The dangers of replication and a solution","J Gray, P Helland","Proceedings of the 1996 ACM SIGMOD International Conference  &hellip;,",N/A
+jH3KeKroDfQJ,"PO'Neil and D. Shasha, 1997. The Dangers of Replication and a Solution","J Grey, P Helland",Proc. ACM,N/A
+M5jLOXpuFacJ,The danger of replicationand a solution,"J Gray, P Helland, PO'Neil, D Shasha","ACM SIGMOD Int. Conf on Management of Data, Montreal, June,",N/A
+Mopy3Yg3i60J,The Danger of Replication and a solution,"J Gary, P Helland, PO'Neil, D Shasha","Procs. of ACM SIGMOD International Conf. on Management of  &hellip;,",N/A
+OLt5pqtQf3YJ,Dennis Shasha-The Dangers of Replication and a Solution-,"J Gray, P Helland, POâ??Neil","Proceedings of the 1996 ACM SIGMOD International Conference  &hellip;,",N/A
+pDjbDK0ZzsMJ,"Neil, and D. Shasha. The Dangers of Replication and a Solution","J Gray, P Helland, P OÃ¢",Proceedings of the ACM SIGMOD,N/A
+t2B4EAmKqnAJ,The Danger of Replication and a Solution,"G Jim, H Pat, O Patrick, S Dennis",Procs. of ACM SIGMOD International Conf. on Management of ,N/A
+bbWXEbBUueYJ,Quickly Generating Billion-Record Synthetic Databases,"S Englert, PJ Weinberger",N/A,N/A
+JT61IMQEZ-QJ,Quickly Generating Billion-Record Synthetic Databases,"P Sundaresan, K Baclawski, S Englert, J Gray",N/A,N/A
+SG9kpHg_arUJ,Quickly Generating Billion-Record Synthetic Databases,"J Gray, P Sundaresan, S Englert","SIGMOD Conference,",1994
+8but_7FuryIJ,Space-Efficient Online Computation of Quantile Summaries,"M Greenwald, S Khanna","SIGMOD Conference,",2001
+zlHamuvyxIwJ,Space-efficientonline computation of quantile summaries,MGS Khanna,"Proceedings of ACM SIGMOD,",N/A
+6QZGeKna5lgJ,"n, L. Libkin, Incremental maintenance of views with duplicates",T Gri,"Proceedings of the ACM-SIGMOD Conference,",N/A
+7xa2FxbUh2cJ,Incremental maintenance of views with duplicates,"T Grin, L Libkin","Proceedings of the 1995 ACM-SIGMOD International Conference  &hellip;,",1995
+nXT3j4XaZxIJ,"Incremental maintenance of views with duplicates,&quot; in\\ Proceedings of ACM-SIGMOD International  ","T Griffin, L Libkin","San Jose, CA, May,",N/A
+RuYYq5xDgNYJ,"Ã¢â?¬ Å?Incremental Maintenance of Views with Duplicates, Ã¢â?¬Â? Proc","T Griffin, L Libkin","ACM SIGMOD,",N/A
+-3LAxRNpDJIJ,Accelerating XPath location steps,T Grust,N/A,N/A
+F3sNx_8p3McJ,Accelerating XPath Location Steps in Any RDBMS,"T Grust, M van Keulen, J Teubner","ACM TODS,",N/A
+FYfyf-SjQNIJ,Accelerated XPath location steps,T Grust,"ACM SIGMOD,",N/A
+btOlpr6NZoIJ,"RastogiR., Cure A., An efficient clustering algorithm for large data bases",S Guha,"&hellip;  1998, ACM SIGMOD International Conference on Management of ",N/A
+dD4qUMoxnpEJ,CURE: An Efficient Clustering Algorithm for Large Databases,"S Guha, R Rastogi, K Shim","Information Systems,",2001
+Dux-7sONElwJ,CURE: An Efficient Clustering Algorithm for Large Data sets,"S Guha, R Rastogi, K Shim","Published in the Proceedings of the ACM SIGMOD Conference,",N/A
+dV7p-cfTjUQJ,CURE: An efficient clustering algorithm for large database,"S Guha, R Rastogi, K Shim","Proc. ACM SIGMOD Int. Conf. on Management of Data, Seattle,  &hellip;,",N/A
+eQlApCaSdEEJ,An efficient clustering for large database,"S Guha, R Rastogi, K Shim",Proceedings of the ACM SIGMOD International Conference on ,N/A
+H7UayPkDxRQJ,CURE: A clustering algorithm for large databases,"S Guha, R Rastogi, K Shim","Proc. of the ACM SIGMOD Conference on Management of Data,  &hellip;,",N/A
+Iom_VGC_DO8J,"CURE: An Efficient Clustering Algorithm for Largr Databases, Proceedings of ACM SIGMOD International ","S Guha, R Rastogi, K Shim",N/A,1998
+iSkco-aumngJ,"R. and Shim, K. 1998. CURE: An efficient clustering algorithm for large databases","S Guha, R Rastogi",Proc. ACM SIGMOD Int. Conf. Management of Data,N/A
+LoR0K8QRGkgJ,"An efficient clustering algorithm for large data bases, SIGMOD 1998","S Guha, R Rastogi, A Cure","Proceedings of ACM SIGMOD International Conference on  &hellip;,",N/A
+nMzsE-ScW4MJ,"Cure: An Efficient Clustering Algorithm for Large Databases, ACM-SIGMOD Int. Conf","S Guha, R Rastogi, K Shim","Management of Data (SIGMODâ??98),",N/A
+oWVyLUIy9JwJ,An Efficient Clustering Algorithm for Large Databases,"S Guha, R Rastogi, KC Shim","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+WHHfHdG_ougJ,CURE: An efficient clustering algorithm for large data databases,"S Guha, R Rastogi, K Shim","Proc. of the ACM SIGMOD,",N/A
+wiE9QG5qC2wJ,CURE: An efficient algorithm for clustering large databases,"S Guha, R Rastogi, K Shim","Proceedings of ACM-SIGMOD 1998 International Conference on  &hellip;,",N/A
+Y8HMa1ZZE6sJ,CURE: An Efficient Clustering Algorithm for Large Databases,"G Sudipto, R Rastogi, K Shim","Proceedings of ACM SIGMOD International Conference on  &hellip;,",N/A
+YCjIP8n8UnMJ,CURE: an efficient clustering algorithm for categorical attributes,"S Guha, R Rostogi, K Shim","Proc. Of 1998 ACM-SIGMOD Int. Conf. on Management of Data,",N/A
+ZStDO0kXD54J,CURE: An Efficient Algorithm for Large Databases,"S Guha, R Rastogi, K Shim","Proc. ACM SIGMOD,",N/A
+-L22HvEHwH8J,"R. rastogi, and K. Shim. Cure: An efficient clustering algorithm for large databases",S Guha,"Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD &hellip;,",N/A
+kneUxV6J3nQJ,A Tutorial on Time Series Similarity Measures and Time Series Indexing,"D Gunopulos, G Das",Proc. 2001,N/A
+LBp-UtmfcScJ,Time series similarity search measures and time series indexing,"D Gunopoulos, G Das","Proceedings of the ACM SIGMOD,",N/A
+mnUzHNE5eF0J,Time series similarity measures (tutorial PM-2),"D Gunopulos, G Das","Conference on Knowledge Discovery in Data,",2000
+oYtmj53qV0UJ,Time series similarity measures and time series indexing,"D Gunopulos, G Das","Proceedings of the 2001 ACM SIGMOD international conference  &hellip;,",2001
+ASfROcKWFmgJ,Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes,"D Gunopulos, G Kollios, VJ Tsotras, C Domeniconi","SIGMOD Conference,",2000
+VEDf7vb98i8J,Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes,"C Domeniconi, D Gunopulos, G Kollios, VJ Tsotras","Proc. ACM SIGMOD,",N/A
+pGix0qZ6Uz4J,Revisiting Commit Processing in Distributed Database Systems,"R Gupta, J Haritsa, K Ramamritham","SIGMOD Conference,",1997
+wu0var7zLkEJ,Revisiting Commit Processing Performance in Distributed Database Systems,"R Gupta, J Haritsa, K Ramamritham","Proc. ACM SIGMOD Int&#39;l Conf. Management of Data,",N/A
+2GUwicKtWTUJ,Adapting materialized views after redefinitions: Techniques and a performance study,"A Gupta, IS Mumick, J Rao, KA Ross",N/A,N/A
+7ggq-jY7UEYJ,Adapting materialized views after renition,"A Gupta, IS Mumick, KA Ross","Proceedings of ACM-SIGMOD,",N/A
+ELtcV7mOQDgJ,Adapting Materialized Views after Redefinitions,A Gupta,"SIGMOD Conference,",1995
+InJyYTfzN50J,RossK (1995) Adaptingmaterializedviews after redefinition,MI GuptaA,N/A,N/A
+6ditJPVnXAQJ,Stream Processing of XPath Queries with Predicates,"AK Gupta, D Suciu","SIGMOD Conference,",2003
+BLPcDzgX3iQJ,Dan Suciu Stream Processing XPath Quedes with Predicates,AK Gupta,N/A,2003
+darWCYZjZHcJ,Stream processing of XPath queries,"A Gupta, D Suciu",SIGMOD,N/A
+9wQ6RWWcHRIJ,Online Query Processing: A Tutorial,"PJ Haas, JM Hellerstein","SIGMOD RECORD,",2001
+PZSlVNV6e9IJ,Tutorial: Online query processing,"P Haas, JM Hellerstein","Proceedings of Sigmod, page,",N/A
+tHEP1S1typgJ,Online query processing,"JM Hellerstein, PJ Haas","Proceedings of the ACM SIGMOD International Conference on  &hellip;,",N/A
+bsfsN1NtuOMJ,Ripple Joins for Online Aggregation,"J Hellerstein, PJ Haas","ACM SIGMOD,",N/A
+fz1XAzoKPo0J,Ripple Joins for Online Aggregation,"PJ Haas, JM Hellerstein",N/A,N/A
+UHF2uPETWC8J,Ripple algorithms for online aggregation,"PJ Haas, JM Hellerstein","Proc. ACM-SIGMOD International Conference on Management of  &hellip;,",N/A
+NMgExE-JRD0J,Executing SQL over encrypted data in the database-service-provider model,"H HacÄ±gumus, B Iyer, C Li, S Mehrotra","Proc. of ACM SIGMOD,",2002
+zMRWZaFMRhQJ,"13. Lyer, C. Li, and S. Mehrotra. Executing SQL over encrypted data in the database-service-provider ",H Hacigumus,Proc. the ACM SIGMOD Intl. Con/: on Management of,N/A
+2rysKgS6lugJ,Template-Based Wrappers in the TSIMMIS Experience,"J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ",Proceedings of the ACM SIGMOD International Conference on ,N/A
+ahrxo47nJtMJ,Vassalos. TemplateBasedWrappers in the TSIMMIS System,"J Hammer, S Nestorov, H Garcia-Molina, R Yerneni,  ","Proc. ACM SIGMOD Conference,",N/A
+FEWg8Ea2CycJ,"SNestorov, V. VassaIos, and R. Yerneni. Templatebased wrappers in the TSIMMIS system. In Proc. ACM  ","J Hammer, M Breunig, H Garcia-Mohna","Proc. PDIS Conf,",N/A
+lmhkvir9Z84J,"Vassalos, Template-Based Wrappers in the TSIMMIS System, ht tp://WWWDB","J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ",Stanford. EDU/tsimmis/publications.,N/A
+PziDM429oXQJ,Template-Based Wrappers in the TSIMMIS System.,"ACMS Anthology, P Edition",N/A,N/A
+pzPZuUoWej8J,Template-based wrappers in the TSIMMIS system - group of 14 &raquo;,"J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ","Proceedings of the 1997 ACM SIGMOD international conference  &hellip;,",1997
+t9nmZzSMVAAJ,Template-based wrappers in the TSIMMIS,"J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ","Proceedings of the 1997 ACM SIGMOD International Conference  &hellip;,",1997
+uPHrOdEDjlEJ,Template-based wrappers in the TSIMMIS system (system demonstration),"J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ","Proc. of ACM SIGMOD Conf. on Management of Data, Tucson,  &hellip;,",N/A
+W0IbuSAyBcoJ,"V.,â??Template-Based Wrappers in the TSIMMIS Systemâ??","J Hammer, H Garcia-Molina, S Nestorov, R Yerneni,  ",Proceedings of 23 rdACM SIGMOD International Conference on ,N/A
+DlQd7WIkVF0J,Data Mining Techniques,J Han,N/A,1996
+uEbdEtnaCXMJ,Conference tutorial notes: data mining techniques,J Han,Proceedings of ACM SIGMOD International,N/A
+6M-fnuhWEOIJ,DBLearn: A System Prototype for Knowledge Discovery in Relational Databases - group of 7 &raquo;,"J Han, Y Fu, Y Huang, Y Cai, N Cercone","Proceedings of the 1994 ACM SIGMOD international conference  &hellip;,",1994
+bJLqgUjkbNEJ,Advances of the DBLearn System for Knowledge Discovery in Large Databases,"J Han, Y Fu, S Tang",N/A,N/A
+dvmROCT52KoJ,DBLearn: A system prototype for knowledge discovery in relational databases (system demonstration),"J Han, Y Fu, Y Huang, Y Cai, N Cercone","Proc. 1994 ACM-SIGMOD Conf. Management of Data, Minneapolis, &hellip;,",N/A
+MqdtZ_cUxDEJ,Scalable Parallel Data Mining for Association Rules,EH Hanâ?¦,"SIGMOD Conference,",1997
+NIfccqToMb8J,KumarV (1997) Scalable parallel data mining for association rules,"EH Han, G Karypis",Proc. ACM SIGMOD International Conference on Management of ,N/A
+-X-ZldO8A7kJ,Scalable parallel data mining for association rules,"H Eui-Hong, G Karypis","IEEE Transactions on Knowledge and Data Engineering,",N/A
+_EEZCcB1BPYJ,GeoMiner: A System Prototype for Spatial Mining,"J Han, K Koperski, N Stefanovic","Proceedings, 1997 ACM-SIGMOD International Conference on  &hellip;,",N/A
+nD_Yjp9TNuIJ,GeoMiner: A System Prototype for Spatial Data Mining,"J Han, K Koperski, N Stefanovic","SIGMOD Conference,",1997
+XFCkL9QhTjIJ,GeoMiner: A System Prototype for Spatial Mining,"K Koperski, J Han","Proceedings ACM-SIGMOD, Arizona,",N/A
+yzL3Kfsz8scJ,N. Stefanovic 1997 â??GeoMiner: A System Prototype for Spatial Data Miningâ??,"J Han, K Koperski",Proc. ACM-SIGMOD Int. Conf. on Management of Data (SIGMOD&#39;97,N/A
+CnAw9v-vEjwJ,Efficient computation of iceberg queries with complex measures,"J Han, J Pei, G Dong, K Wang","Proceedings of the 2001 ACM SIGMOD International Conference  &hellip;,",N/A
+ue3gCyIirokJ,Efficient Computation of Iceberg Cubes with Complex Measures,"J Han, J Pei, G Dong, K Wang","SIGMOD Conference,",2001
+XyYCahzDAh8J,Computing Iceberg Data Cubes with Complex Measures,"J Han, J Pei, G Dong, K Wang","Proc. ACM-SIGMOD,",N/A
+2xwKDuA0DI8J,"Mining frequent patterns without candidate generation,(slides)","J Han, J Pei, Y Yin","Proc of,",N/A
+63XKDNdtzp8J,Mining Frequent Patterns without Candidate Generation,"H Jiawei, P Jian, Y Yiwen",N/A,N/A
+aUm_NiRzVOIJ,Ming Frequent Patterns Without Candidate Generation,"P HANJ, Y YIN","Dallas, TX, USA: Proc. 2000 ACM-SIGMOD Int. Conf. on  &hellip;,",N/A
+fKrgMlFaEJsJ,Mining frequent patterns without candidate generation (to appear),"J Han, J Pei, Y Yin",Proceedings of the 2000 ACM SIGMOD International Conference ,N/A
+GlNt7w28aE8J,Mining Frequent Patterns without Candidate Generation. ACM SIGMOD Int,"J Han, J Pei, Y Yin","Conference on Management of Data, ACM,",N/A
+hlrRtJigGbYJ,Mining Frequent Patterns without Candidate,"J Han, J Pei, Y Yin","Proc. 2000 ACMSIGMOD Int. Conf. on Management of Data ( &hellip;,",N/A
+l4SlX8_cAeQJ,Mining Frequent Patterns without Candidate Generation: A Frequent-Pattern Tree Approach,"J Han, J Pei, Y Yin, R Mao","Data Mining and Knowledge Discovery,",2004
+mwSZ7Yejt8sJ,Mining frequent pattems without candidate generation,"J Han, J Pei, Y Yin","Prtoceedings of the 2000 ACM SIGMOD International Conference &hellip;,",N/A
+oeBeDPX7b9kJ,Mining Frequent Patterns Without Candidate Generation:[Technical Report CMPT99-12],"J Herlocker, J Pei, Y Yin","School of Computing Science, Simon Fraser University,",N/A
+R-ERjYdCskcJ,Mining frequent patterns with out candidate generation,"J Han, J Pei, Y Yin","Proceedings ofACM International Conference on Management of  &hellip;,",N/A
+rLJSEgt6UbMJ,Mining frequent pattern without generation candidate,"J Han, J Pei, Y Yin","Proceedings of the 2000 ACM SIGMOD, Dallas, Texas, USA,",N/A
+YkKV8PCox8IJ,Mining frequent patterns without candidate generation. In 2000 ACM SIGMOD Intl,"J Han, J Pei, Y Yin","Conference on Management of Data,",N/A
+Ywgd3RbAfl0J,Mining frequent patterns without candidate generation. In proc 2000 ACMSIGMOD Intl Conf,"J Han, J Pei, Y Yin","Management of Data, May,",N/A
+nwWpGh3Mx7MJ,CubeExplorer: online exploration of data cubes,"J Han, J Wang, G Dong, J Pei, K Wang",N/A,N/A
+tcyoSdrkaRMJ,CubeExplorer: online exploration of data cube,"H Jiawei, W Jianyong, D Guozhu, P Jian, W Ke","ACM SIGMOD,",N/A
+4OrM17Osz64J,J.: Ullman. Implementing data cubes efficiently,"V Harinarayan, A Rajaraman","Proc. Of ACM-SIGMOD Int â??l Conference on Management of  &hellip;,",N/A
+8A_9ucHRXyIJ,Anad Rajaraman. Implementing Data Cubes Efficiently,V Harinarayan,N/A,N/A
+9Ue5hZp8H68J,andJ. D. Ullman. Implementing data cubes efficiently,"V Harinarayan, A Rajaraman","Proc. of,",N/A
+cnjY261oL-4J,Jeffrey D. Ullman.â??Implementing Data Cubes Effiecientlyâ??,"V Harinarayan, A Rajaraman","Proceedings of ACM SIGMOD 1996 International Conference on  &hellip;,",N/A
+ESZwkhGzOboJ,Implementing data cubes effectively,"V Harinarayan, JD Ullman, R Rajaraman","Proc. 1996 ACM-SIGMOD Int. Conf. Manament of Data  June,",N/A
+Fyek_kCB-qkJ,Implementing Data Cubes Efficiently [J],"V Hafinarayan, A Rajaraman, JD Ullman","SIGMOD,",N/A
+JM1X7hho718J,Implementing Data Cubes EÃ¦-ciently,"V Harinarayan, A Rajaraman, J Ullman","Proceedings of ACM Sigmod Conference, Montreal, Canada, June,",N/A
+ofxLw3VrJB8J,"Implementing Data Cubes E-ciently, Best Paper Award","V Harinarayan, A Rajaraman, J Ullman","Proceedings SIGMOD,",N/A
+QHUtoLECZzgJ,Implementing Data Cubes Efficiently,"V Harinarayan, A Rajaraman, JD Ullman","SIGMOD Conference,",1996
+Qv7KYn9x-SQJ,"A, Ullman, JD, Implementing Data Cubes Efficiently",R Harinarayan,"Proceedings of the International Conference on Management of &hellip;,",N/A
+S-7KOPYObKcJ,Rajaraman. A. Implementing data cubes efficiently,UJD Harinarayan,"Proc ACM SIGMOD Int&#39;l Conf on Management of Data. Montreal,",N/A
+sLvivSi__BcJ,"Implementing data cubes efficiently. ACM SIGMOD Proceedings 1996, and via ftp db","V Harinarayan, R Rajaraman, JD Ullman",stanford. edu as,N/A
+uKGmcc4xUG4J,Implementing Data Cubes E-ciently,"V Harinarayan, A Rajaraman, JD Ullman","Proceedings of the Fifteenth ACM SIGACT-SIGMOD-SIGART  &hellip;,",N/A
+V6KNPMKdyagJ,Implementing Data Cubes Efficiently. A flfll version of Lhis paper. At http://db,"V Harinarayan, A Rajaraman, JD Ullman",stanford. edu/pllb/harinarayan/1995/cub e.,N/A
+-RzBfKSBxpgJ,Implementing Data Cubes Efficiently,"VHA Rajaraman, JD Ullman","Proc. ACM SIGMOD,",1996
+Nn0LzB8rUPEJ,Practical Predicate Placement,JM Hellerstein,N/A,N/A
+r4adn1YKOFIJ,Predicate Migration placement,JM Hellerstein,"Proc. of ACM SIGMOD, Minneapolis,",N/A
+Gsb6dnkFBMoJ,Eddies: Continuously Adaptive Query Processing,"R Avnur, JM Hellerstein","SIGMOD Conference,",2000
+iFbXSEmnpzgJ,Eddies: Continously adaptive query processing,"R Avnur, JM Hellerstein","ACM SIGMOD,",N/A
+VlRO0WwUy3wJ,Eddies: Continuously Adaptive Query Processing,"JM Hellerstein, R Avnur",Proceedings of the ACM SIGMOD International Conference on ,N/A
+ZuCOw9hYVU8J,Continuously Adaptive Query Processing,"R AVNUR, JMH Eddies",N/A,2000
+-GYSZmXrx-UJ,Eddies: Continuous Query Optimization,"R Avnur, J Hellerstein","Proceedings of SIGMOD,",N/A
+1n-1Xj-lfLAJ,H. Wang Online Aggregation,"JM Hellerstein, PJ Haas","Proc. of SIGMOD,",N/A
+7dcgPQxHuCMJ,On-line Aggregation,"JM Hellerstein, JP Haas, HJ Wang","Proc. of ACM-SIGMOD Conference on Management of Data,",N/A
+8w5kj2G2c_oJ,"Wang., HJ (1997) Online aggregation","JM Hellerstein, PJ Haas",Proc. ACMâ??SIGMOD Conference on Management of,N/A
+IP5tZ_N2KXYJ,"Online aggregation, ACM SIGMOD Int","JM Hellerstein, PJ Haas, HJ Wang","Conference on Management of Data,",N/A
+K6752bGaG2QJ,Online Aggregation,JM Hellerstein,N/A,N/A
+_hDCldPyum0J,Query Execution Techniques for Caching Expensive Methods,"JM Hellerstein, JF Naughton","SIGMOD Conference,",1996
+5vvOcgfpjUgJ,Query execution techniques for caching expensive predicates,"JM Hellerstein, J Naughton",N/A,1996
+PrDCERVl9dUJ,Query Execution Strategies for Caching Expensive Methods,"J Hellerstein, J Naughton","Proc. of the ACM SIGMOD Conf. on Management of Data,",N/A
+tKewiQ5_kyIJ,Query execution techniques forcaching expensive methods,"JM Hellerstein, J Naughton",Proc. of the ACM SIGMOD Intl. Conferenceon Managementof,N/A
+vCvPdFwbKWkJ,Query processing techniques for caching expensive methods,"J Hellerstein, J Naughton","Proceedings of ACM SIGMOD,",N/A
+89WHY6hZ22UJ,Clio: a semi-automatic tool for schema mapping,"MA HernÃ¡ndez, RJ Miller, LM Haas","Proceedings of the 2001 ACM SIGMOD international conference  &hellip;,",2001
+pOFhgBVYVTkJ,Clio: A Semi-Automatic Tool For Schema Mapping,"R Miller, M Hernandez, L Haas, L Yan, C Ho, R  ","ACM SIGMOD Record, web edition,",N/A
+wMa4fMryrt0J,"Clio: A semi-automatic tool for schema mapping, system demonstration","MA Hernandez, RJ Miller, L Haas, L Yan, CTH Ho, X  ","Proceedings of the ACM SIGMOD, May, Santa Barbara,  &hellip;,",N/A
+7EYR1qDwKg0J,The merge/purge problem for large databases,"MA Hernndez, SJ Stolfo","Proceedings of SIGMOD-95,",N/A
+Al2MFiRHz9sJ,The Merge/Purge Problem for Large Databases [C],"MA HemÃ¡ndez, SJ Stolfo","SIGMOD Conference,",N/A
+CckDkmI4U3wJ,The merge/purge problem for large databases,"MA Hernandez, SJ Stolfo","Proceedings of the 1995 ACM SIGMOD international conference  &hellip;,",1995
+IHy3bqAuSOUJ,The Merge/Purge Problem for large Databases [A],"AH Mauricio, JS Stolfo","Proceedings of the 1995 ACM SIGMOD Conference on Management  &hellip;,",N/A
+KJyo5lhO_vAJ,The merge/purge problem for large databases,S Stolfo,"Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",1995
+HkBKH9ZUJEcJ,"Online Association Rule Mining, SIGMOD 1999",C Hidber,"Proceedings ACM SIGMOD International Conference on  &hellip;,",N/A
+Rn-E82gM1RQJ,Online Association Rule Mining,C Hidber,N/A,N/A
+V-pwJ8K5ZTEJ,Random I/O scheduling in online tertiary storage systems,"BK Hillyer, A Silberschatz","Proceedings of the 1996 ACM SIGMOD International Conference  &hellip;,",1996
+zonW-W8gJ3oJ,O scheduling in online tertiary storage systems,"BK Hillyer, A Silberschatz, I Random",Proceedings of the 1996 ACM SIGMOD international conference ,N/A
+C9imFvgrSvAJ,Clustering Methods for Large Databases: From the Past to the Future,"A Hinneburg, DA Keim","SIGMOD Conference,",1999
+OMqN9nFAR88J,Clustering techniques for large data setsâ??from the past to the future,"DA Keim, A Hinneburg","Conference on Knowledge Discovery in Data,",1999
+V3cZfG1Poo4J,Clustering Methods for Large Databases: From the Past to the Future,"DA Keim, A Hinneburg","SIGMOD Conference, Philadelphia,",N/A
+7v3f7Thmyw0J,HD-Eye: visual mining of high-dimensional data,"A Hinneburg, DA Keim, M Wawryniuk","Computer Graphics and Applications, IEEE,",1999
+T1dmP2NL1aYJ,Hdeye: Visual mining of highdimensional data (demo),"A Hinneburg, DA Keim, M Wawryniuk",N/A,2002
+VWd7jhLXfV0J,HD-Eye: visual clustering of high dimensional data,"A Hinneburg, DA Keim, M Wawryniuk","SIGMOD Conference,",2002
+1HAB-tuw7N4J,Range queries in OLAP data cubes,"CT Ho, R Agrawal, N Megiddo, R Srikant",N/A,N/A
+4YsYF_8QeogJ,Range Queries in Data Cubes,"CT Ho, R Agrawal, R Srihant","Proc. Intâ??l Conf. Management of Data (SIGMOD),",N/A
+LWXzOXyOy24J,Range Queries in OLAP Data Cubes,"H Ch, R Agrawal, N Megiddo, R Srikant","Proc. ACM SIGMOD Int. Conf. on Management of Data,",N/A
+QZwZ8GSsqToJ,"Range queries in OLAP data cubes In: Joan P, ed","CT Ho, R Agrawal, R Megiddo, R Srikant","Proceedings of the International ACM SIGMOD Conference. ACM  &hellip;,",N/A
+r1um7d3ckAYJ,Ã¢â?¬ Å?Range queries in OLAP data cubesÃ¢â?¬Â?,"CT Ho, R Agrawal, N Megiddo, R Srikant","Proc. ACM SIGMOD Ã¢,",N/A
+rUNHnYf8TtEJ,Range Queries in OLAP Cubes,"CT Ho, R Agrawal, R Megiddoâ?¦","Proceedings of the International ACM SIGMOD Conference, ACM  &hellip;,",N/A
+xbt2t9kYWLwJ,"Range queries in olap data cubes, in â??SIGMODâ??97","CT Ho, R Agrawal, N Megiddo, R Srikant","&hellip;  ACM SIGMOD International Conference on Management of Data,",N/A
+LEi_Rzm1iH0J,On Parallel Execution of Multiple Pipelined Hash Joins,"HI Hsiao, MS Chen, PS Yu","SIGMOD Conference,",1994
+UaAAKwdvoRMJ,On parallel execution of multiple pipelined hash joins,"MS Chen, H Hsiao, PS Yu",Proc. of ACM SIGMOD,N/A
+AvYMafGTVLEJ,Image Mining in IRIS: Integrated Retinal Information System (Demo),"W Hsu, ML Lee, KG Goh","Proceedings of ACM SIGMOD International Conference on the  &hellip;,",N/A
+kxIpDxLD46gJ,Image Mining in IRIS: Integrated Retinal Information System,"W Hsu, ML Lee, KG Goh","SIGMOD Conference,",2000
+5Chw6HN64vEJ,Data Replication for Mobile Computers,"Y Huang, P Sistla, O Wolfson","SIGMOD Conference,",1994
+xF8s5N7oUIMJ,"PS and Wolfson, O. 1994a. Data replication for mobile computers",Y Huang,"Proceedings of the ACM-SIGMOD, International Conference on ",N/A
+H1E3GuQcoUAJ,A framework for supporting data integration using the materialized and virtual approaches,"R Hull, G Zhou","SIGMOD Conference,",1996
+rI-T6ppfITQJ,A framework for supporting data integration using the materialize and virtual approaches,"RH HZ961, G Zhou","Proc, ACM SIGMOD Intl. Co@ Management of Data, Montreal,  &hellip;,",N/A
+3gpc7dPy-ucJ,"H. P1. Yeung and K. Karlapalem, CapBasED-AMS: A capability-based and event-driven activity  ",PCK Hung,Proceedings of the ACM SIGMOD Conference on Management of ,N/A
+bTI28RjBpPwJ,CapBasED-AMS: a capability-based and event-driven activity management system,"PCK Hung, HP Yeung, K Karlapalem","Proceedings of the 1996 ACM SIGMOD international conference  &hellip;,",1996
+NY5e4MkJ6VYJ,CapBasED-AMS - A Framework for Capability-Based and Event-Driven Activity Management System,"K Karlapalem, HP Yeung, PCK Hung",N/A,N/A
+P6VVKZUo4pgJ,CapBasED-AMS: A Capability-based and Event-driven Activity Management System (Demonstrations),"PCK Hung, HP Yeung, K Karlapalem","Proceedings of the ACM SIGMOD Conference on Management of  &hellip;,",N/A
+1H_A7k3QsbQJ,Energy Efficient Indexing On Air,"T Imiehnski, S Viswanathan, BR Badrinath","Proc. ACM SIGMOD Conference,",N/A
+7FHudYbEkF0J,"Energy Efficient Indexing on Air, Rutgers University","T Imielinski, S Viswanathan, BR Badrinath","International conference on Management of Data, ACM SIGMOD,  &hellip;,",N/A
+7qv9IC8F_WQJ,Indexing on air,"T ImieliÅ?ski, S Viswanathan, BR Badrinath","Proceedings of the ACM-SIGMOD International Conference on  &hellip;,",N/A
+8EC1IBh8MZkJ,Energy ejicient indexing on aiz ACM SIGMOD Int,"T Imielinski, S Viswanathan, B Badrinath","Conference on Management of Data,",N/A
+9KBHBWVwKZsJ,Energy efficient indexing on air,"T Imielinsky, S Viswanathan, BR Badrinath","Proc. of Intl. Conf. on Managm. of Data-ACm-SIGMOD,",N/A
+AhacU8AzwSUJ,Indexing on air,"T Imielinski, S Viswanathan, BR Badrinath",Proceedings of ACM SIGMOD,N/A
+cffLplmoKH4J,Energy efficient indexing on air,"T Imielinski, S Viswanathan, BR Badrinath",Proceedings of the 1994 ACM SIGMOD international conference ,N/A
+CuoOi5jJXxQJ,Energy efficientindexingonair,"T Imielinski, S Viswanathan, BR Badrinath",Proc. of1994ACM,N/A
+ib4ebmBQW4kJ,Indexing on air,SVTIBR Badrinath,"Proceedings of the 1994 ACM SIGMOD,",N/A
+MdMdCC38z4UJ,Energy e  cient indexing on air,"T Imielinski, S Viswanathan, B Badrinath","Proc. ACM SIGMOD International Conference on Management of  &hellip;,",N/A
+RcmGrB81X-4J,cient Indexing on Air,"T Imielinski, S Viswanathan, BR Badrinath, E  ",Proceedings of the ACM,N/A
+u5ForuTsW-YJ,"S. &amp; Badrinath, BR (1994). Energy Efficient Indexing on Air",TV Imielinski,Proceedings of the ACM Conference on Management of Data (,N/A
+VdUSfNE_8i8J,"Badrinath,â??Energy efficient indexing on airâ??","T Imilienski, S Vishwanathan","Proceedings SIGMOD,",N/A
+V-LO20klzSYJ,Indexing on air,"T Imielifiski, S Viswanathan, BR Badrinath",Proceedihgs of the ACM-SIGMOD International Conference on ,N/A
+WkcdtG_5kfgJ,Energy efficient indexing on air,"T Irniefinski, S Vishwanathan, BR Badrinath","Ln Proceedings of the ACM SIGMOD International Conference on &hellip;,",N/A
+YCP5tWRHS_EJ,Energy efficiency indexing on air,"T Imielinski, S Viswanathan, BR Badrinath","Proceedings of the International Conference on SIGMOD,",N/A
+bbr1Xk0-hH8J,ZOO: A Desktop Emperiment Management Environment.,"ACMS Anthology, P Edition",N/A,N/A
+jazpbJzP6k8J,Desktop Experiment Management,"YE Ioannidis, M Livny, EM Haber, RJ Miller, OG  ",N/A,N/A
+kDWGwVa8dykJ,N. Ponnek anti. ZOO: A desktop experiment management environment,"Y Ioannidis, M Livny, S Gupta","22nd International VLDB Conference,",N/A
+qb-jf_sQ_5kJ,ZOO: A Desktop Experiment Management Environment. Int,"Y Ioannidis, M Livny, S Gupta, N Ponnekanti","Conference on Very Large Databases,",N/A
+U04OC6OSBT0J,ZOO: A Desktop Experiment Management Environment,", M Livny, S Gupta, N Ponnekanti","VLDB,",1996
+23K90oRfbbsJ,Balancing histogram optimality and practicality for query result size estimation,V Poosala,N/A,1995
+bv21uJEzUwAJ,Balancing Histogram Optimality and Practicality for Query Result Size Estimation,"YE Ioannidis, V Poosala","SIGMOD Conference,",1995
+mKsxPS2lFXcJ,Balancinghistogramoptimalityand practicalityforquery result size estimation,"YE Ioannidis, V Poosala",ACM,N/A
+0087thkugMUJ,An adaptive query execution engine for data integration,"Z Ives, D Florescu, M Friedman, A Levy, D Weld","Proc. of ACM SIGMOD Conf. on Management of Data,",1999
+HwBwuLKlAiEJ,An adaptive query processing system for data integration,"Z Ives, D Florescu, M Friedman, A Levy, D Weld","Proc. ACM SIGMOD,",N/A
+V4NASwqZ530J,"D. FLORESCU, M. FRIEDMAiN, A. LEVY, DS WELD, An Adaptive Query Execution System for Data Integration",ZG IVES,Proc. of the/999 ACM,N/A
+yrnhcMqsUVoJ,An Adaptive Query Execution System for Data Integration,"ZG Ives, D Florescu, M Friedman, A Levy, DS Weld","SIGMOD Conference,",1999
+4-FwpSOweRAJ,Self-organizing data sharing communities with SAGRES: System demonstration,"Z Ives, A Levy, J Madhavan, R Pottinger, S Saroiu, ","Proc. of SIGMOD, page,",N/A
+rtnpqb22gGcJ,Self-Organizing Data Sharing Communities with SAGRES,"ZG Ives, AY Levy, R Pottinger, I Tatarinov","SIGMOD Conference,",2000
+9eSx_Gd0JoQJ,On parallel processing ofaggregateandscalar functionsinobjectrelationaldbms,"M Jaedicke, B Mitschang","Proc. of ACM SIGMOD,",N/A
+LrJw7qiWElQJ,On Parallel Processing of Aggregate and Scalar Function in Object-Relational DBMS,"M Jaedicke, B Mitschang",Proc. ACM SIGMOD Int. Conf. on Management of,N/A
+MswqiEweEGUJ,On Parallel Processing of Aggregate and Scalar Functions in Object-Relational DBMS,"M Jaedicke, B Mitschang","SIGMOD Conference,",1998
+Py0wIlQRPCkJ,A Framework for Parallel Processing of Aggregate and Scalar Functions in Object-Relational DBMS,"M Jaedicke, B Mitschang","Proc. SIGMOD Conf, Seattle,",N/A
+p5n3KKoHgMgJ,Snakes and sandwiches: Optimal clustering strategies for a data warehouse,"HVJLVS Lakshmanan, D Srivastava",Proceedings of ACM SIGMOD International Conference on ,N/A
+sh2u_UFoG74J,Snakes and sandwiches: Optimal clustering strategies or a warehouse,"HV Jagadish, LV Lakshmanan, D Srivastava","Proceedings of the 1999 ACM SIGMOD Conference, Philadelphia,",N/A
+uXZXfQgn4doJ,Snakes and Sandwiches: Optimal Clustering Strategies for a Data Warehouse,"HV Jagadish, D Srivastava","SIGMOD Conference,",1999
+fobv5DPqKUcJ,Data grid management systems,"A Rajasekar, A Jagatheesan","Proceedings of the 2003 ACM SIGMOD international conference  &hellip;,",N/A
+hHMtxXFlyu8J,Data Grid Management Systems,"A Jagatheesan, A Rajasekar",N/A,N/A
+InqySB8bkKkJ,Grid Data Management Systems &amp; Services,"A Jagatheesan, R Moore","PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE  &hellip;,",2003
+QDqI_QZyy10J,Data Grid Management Systems,"RW Moore, A Jagatheesan",N/A,N/A
+4_fm8LWVWHMJ,A Unified Framework for Enforcing Multiple Access Control Policies,"S Jajodia, P Samarati, VS Subrahmanian, E Bertino",N/A,N/A
+p-m7MMOS2aUJ,A Unified Framework for Enforcing Multiple Access Control Policies,"E Bertino, S Jajodia, P Samarati, VS Subrahmanian","Proceedings of ACM SIGMOD Conference on Management of Data,  &hellip;,",N/A
+s3CWa_4OiW0J,A unified framework for supporting multiple access control policies,"S Jajodia, P Samarati, M Sapino, V Subrahmanian","ACM Transactions on Database Systems. To appear,",N/A
+XpY2UPc6vP0J,A Unified Framework for Enforcing Multiple Access Control,"S Jajodia, P Samarati, VS Subrahmanian, E Bertino",ACM SIGMOD International Conference on Management of,N/A
+AYtgczYwVnYJ,Concept based design of data warehouses: The DWQ demonstrators. In 2000 ACM SIGMOD Intl,"M Jarke, C Quix, D Calvanese, M Lenzerini, E  ","Conference on Management of Data,",N/A
+bl_VrPzIIPwJ,Concept Based Design of Data Warehouses: The DWQ Demonstrators,"M Jarke, C Quix, D Calvanese, M Lenzerini, E  ","SIGMOD Conference,",2000
+E0nhpX8pYsQJ,Efficient mid-query reoptimization,"N Kabra, J DeWitt","Proc. SIGMOD,",N/A
+V9XUvirmVEEJ,Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans,"N Kabra, DJ DeWitt","SIGMOD Conference,",1998
+WOHxNqdNMZoJ,Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans,"D Dewitt, N Kabra",Proceedings of ACM SIGMOD,N/A
+4O5JTAQZf7IJ,Dimensionality Reduction for Similarity Searching in Dynamic Databases,"KVR Kanth, D Agrawal","Computer Vision and Image Understanding,",1999
+eTqBO4EcCNIJ,"VR; AGRAWAL, D.; SINGH, AK Dimensionality Reduction for Similarity Searching in Dynamic Databases",K KANTH,International Conference on Management of,N/A
+LImRBeAtjMQJ,Dimensionality Reduction for Similarity Searching in Dynamic Databases,"RK KV, D Agrawal, A El Abbadi, A Singh","University of California at Santa Barbara, Santa Barbara, CA,",N/A
+tG_s5R-BKcAJ,Dimensionalityreduction for similarity searching in dynamic databases,"A Singh, D Agrawal, KVR Kanth",ACM,N/A
+8_ZvLWzd8cEJ,The SR-tree: An index structure for high dimensional data,"N Katayama, S Satoh","ACM SIGMOD Conference,",N/A
+DfJERPfnugwJ,"Shin'ichi Satoh, The SR-tree: an index structure for high-dimensional nearest neighbor queries",N Katayama,Proceedings of the 1997 ACM SIGMOD international conference ,N/A
+GPEkH-UohLYJ,The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries,N Katayama,N/A,1997
+G-XP436aGVAJ,The SR-tree: an index structure forhigh-dimensionalnearest neighbor queries,"N Katayama, S Satoh","ACM SIGMOD Conf,",N/A
+JsKsbyzon5EJ,The SR-tree: an index structure for high-dimensional nearest neighbor query,"N Katayama, S Satoh",Proceedings of 1997 ACM SIGMOD International Conference on ,N/A
+A3TmzWOtgmYJ,Mapping Data in Peer-to-Peer Systems: Semantics and Algorithmic,"A Kementsietsidis, M Arenas, R Miller","Issues. SIGMOD,",N/A
+jCudeTapg5IJ,Data mapping in peer-to-peer systems: Semantics and algorithmic issues,"A Kementsietsidis, M Arenas, RJ Miller","ACM SIGMOD,",N/A
